@@ -219,10 +219,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Datasets
-data/raw/
-data/processed/
-
 # Python
 __pycache__/
 *.pyc
