@@ -1,0 +1,27 @@
+cs1684-crisis-nlp/
+│
+├── data/
+│   ├── raw/                  # original CrisisBench dataset
+│   └── processed/            # cleaned datasets and splits
+│
+├── notebooks/                # jupyter notebooks for EDA, experiments, and analysis
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_baseline_model.ipynb
+│   ├── 04_bert_model.ipynb
+│   └── 05_evaluation.ipynb
+│
+├── src/                      # reusable Python code for preprocessing and models
+│   ├── preprocessing.py
+│   ├── baseline.py
+│   ├── bert_model.py
+│   └── evaluation.py
+│
+├── results/
+│   ├── figures/              # graphs, confusion matrices, visualizations
+│   └── tables/               # evaluation metrics and comparison tables
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── LICENSE
