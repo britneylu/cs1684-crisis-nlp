@@ -1,0 +1,46 @@
+{
+  "source": "data/raw/all_data_en humanitarian train/dev/test",
+  "model_input": "text_clean",
+  "target": "class_label",
+  "labels": [
+    "affected_individual",
+    "caution_and_advice",
+    "displaced_and_evacuations",
+    "donation_and_volunteering",
+    "infrastructure_and_utilities_damage",
+    "injured_or_dead_people",
+    "missing_and_found_people",
+    "not_humanitarian",
+    "requests_or_needs",
+    "response_efforts",
+    "sympathy_and_support"
+  ],
+  "split_priority_for_duplicates": [
+    "train",
+    "dev",
+    "test"
+  ],
+  "conflict_policy": "exclude all rows sharing an ID or cleaned text with conflicting labels",
+  "counts": {
+    "train": {
+      "original": 61164,
+      "retained": 61164,
+      "removed": 0
+    },
+    "dev": {
+      "original": 8935,
+      "retained": 8934,
+      "removed": 1
+    },
+    "test": {
+      "original": 17356,
+      "retained": 17356,
+      "removed": 0
+    }
+  },
+  "removal_reasons": {
+    "duplicate_id": 1
+  },
+  "encoding_policy": "flag suspected artifacts; no automatic repair",
+  "cross_crisis_ready": false
+}
