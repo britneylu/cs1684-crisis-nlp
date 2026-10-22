@@ -1,0 +1,54 @@
+{
+  "input_column": "text_clean",
+  "target_column": "class_label",
+  "selected_settings": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "C": 10.0,
+    "class_weight": "balanced"
+  },
+  "selection_metric": "dev_macro_f1",
+  "dev_metrics": {
+    "macro_f1": 0.640741592307217,
+    "weighted_f1": 0.8115990019470872,
+    "accuracy": 0.8043429594806357
+  },
+  "labels": [
+    "affected_individual",
+    "caution_and_advice",
+    "displaced_and_evacuations",
+    "donation_and_volunteering",
+    "infrastructure_and_utilities_damage",
+    "injured_or_dead_people",
+    "missing_and_found_people",
+    "not_humanitarian",
+    "requests_or_needs",
+    "response_efforts",
+    "sympathy_and_support"
+  ],
+  "training_rows": 61164,
+  "dev_rows": 8934,
+  "trained_on": "train only; dev used only for selection",
+  "test_evaluated": false,
+  "random_state": 42,
+  "max_iter": 1000,
+  "solver": "lbfgs",
+  "tfidf_other_settings": "scikit-learn defaults for recorded version",
+  "python": "3.14.2",
+  "packages": {
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.7.0"
+  },
+  "data_sha256": {
+    "train": "905cd9a3a8364c917e52ea5cffd377ceada32aa3baae2690613287512d497731",
+    "dev": "493fa4cc09eba0367b88d022afa0f3c1ffa673da8f28e3009fe99bbf83e8e1bf"
+  },
+  "model_path": "checkpoints/baseline/selected_pipeline.joblib",
+  "model_sha256": "ff7f13805f0c0492e421cfd543067b0f630306a88936b02c25684c92e9ba1cd0"
+}
