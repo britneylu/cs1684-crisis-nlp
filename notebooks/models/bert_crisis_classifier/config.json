@@ -1,0 +1,51 @@
+{
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "dtype": "float32",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "affected_individual",
+    "1": "caution_and_advice",
+    "2": "displaced_and_evacuations",
+    "3": "donation_and_volunteering",
+    "4": "infrastructure_and_utilities_damage",
+    "5": "injured_or_dead_people",
+    "6": "missing_and_found_people",
+    "7": "not_humanitarian",
+    "8": "requests_or_needs",
+    "9": "response_efforts",
+    "10": "sympathy_and_support"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "affected_individual": 0,
+    "caution_and_advice": 1,
+    "displaced_and_evacuations": 2,
+    "donation_and_volunteering": 3,
+    "infrastructure_and_utilities_damage": 4,
+    "injured_or_dead_people": 5,
+    "missing_and_found_people": 6,
+    "not_humanitarian": 7,
+    "requests_or_needs": 8,
+    "response_efforts": 9,
+    "sympathy_and_support": 10
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522
+}
