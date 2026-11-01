@@ -1,0 +1,12 @@
+label,TF-IDF_LR_precision,TF-IDF_LR_recall,TF-IDF_LR_f1,support
+not_humanitarian,0.948,0.832,0.886,5259
+donation_and_volunteering,0.636,0.819,0.716,761
+requests_or_needs,0.792,0.909,0.846,702
+sympathy_and_support,0.64,0.759,0.694,539
+infrastructure_and_utilities_damage,0.621,0.705,0.661,509
+affected_individual,0.752,0.721,0.736,366
+caution_and_advice,0.562,0.72,0.631,307
+injured_or_dead_people,0.716,0.793,0.752,270
+response_efforts,0.219,0.301,0.254,113
+missing_and_found_people,0.459,0.509,0.483,55
+displaced_and_evacuations,0.382,0.396,0.389,53

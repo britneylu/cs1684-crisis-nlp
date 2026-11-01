@@ -1,0 +1,111 @@
+id	event_key	disaster_type	text_clean	class_label	pred_baseline	error_code	notes
+232762292310269953	2012_philipinnes_floods	flood	RT USER : “Those who need rescue, put a white blanket on roof of house or out your window so rescuers can see you.” rescuePH	affected_individual	donation_and_volunteering		
+295865730233163776	2013_queensland_floods	flood	Baby stuffed in bag, hoisted from flood: Australia's powerful storms led to an amazing rescue of two women and a... URL	affected_individual	requests_or_needs		
+904705943048527873	hurricane_harvey	storm	RT USER : homeowner affected by Harvey, mortgage help: URL HoustonStrong URL	affected_individual	donation_and_volunteering		
+396367222550970369	2013_la_airport-shootings	human_caused	Dont worry-not hurt or guilty. I'm tired of being huddled on the sidewalk & not knowing when guns will stop or if I'll get to Bali LAX	affected_individual	not_humanitarian		
+295088479543648256	2013_queensland_floods	flood	Amazed & shocked at flood images from home on SM. v relieved USER seems to have been spared tornadoes at her place too.qldflood	affected_individual	infrastructure_and_utilities_damage		
+348532548596551680	2013_alberta_floods	flood	Just saw a c-117 on approach for yyc. CAF yycflood	affected_individual	infrastructure_and_utilities_damage		
+325290492441018369	2013_boston_bombings	human_caused	Uncle Of Marathon Bombing Suspects Speaks: URL Boston	affected_individual	not_humanitarian		
+907017813411483648	hurricane_harvey	storm	One Harvey evacuee is calling this McKinney Falls campsite home. Full story on USER : URL URL	affected_individual	not_humanitarian		
+296239358808309760	2013_queensland_floods	flood	in Massive Floods Hit Queensland, New So. Wales; 4 Dead, Thousands Evacuated: Massive summer floods killed four... URL	affected_individual	injured_or_dead_people		
+909421137590915073	hurricane_irma	storm	I survived hurricane Irma. My god is MERCIFUL. URL	affected_individual	infrastructure_and_utilities_damage		
+223607203	2012_us_sandy-hurricane-a144267	storm	NEW INFO: Sandy hitting gas pedal. Speeding up. Earlier collision with shore scheduled. Expect lots of damage. URL - NBC4	caution_and_advice	infrastructure_and_utilities_damage		
+382823351544471553	2013_pakistan_earthquake	earthquake	New island formed after deadly Pakistan quake - FT URL	caution_and_advice	injured_or_dead_people		
+382823358226006016	2013_pakistan_earthquake	earthquake	RT USER : Two earthquakes in one week RT USER New quake strikes hard-hit Pakistan URL Balochistan	caution_and_advice	injured_or_dead_people		
+275764305985683456	2012_philippines_typhoon-pablo	storm	Centrio announces NOT OPEN for business TODAY due to PabloPH. CDO	caution_and_advice	not_humanitarian		
+451187965411065857	2014_chile_earthquake	earthquake	RT USER : The Chile quake in context: a map of all seismic activity from the past 2 weeks. URL URL	caution_and_advice	infrastructure_and_utilities_damage		
+576428649710166016	2015_vanuatu_cyclone-pam	storm	Worst may be past for Port Vila - pressure suggests maybe not a direct hit, but bad; spare a thought for all Vanuatu URL	caution_and_advice	sympathy_and_support		
+591902711265636352	2015_nepal_earthquake	earthquake	RT USER : The next 72 hrs will be critical & rescue efforts are complicated by the terrain NepalQuake: URL URL	caution_and_advice	donation_and_volunteering		
+204038352146673664	2012_italy_earthquakes	earthquake	RT USER : 5.9-magnitude earthquake strikes near Bologna, Italy (the earthquake had initially registered at magnitude 6.3) URL ...	caution_and_advice	affected_individual		
+540024805617983488	2014_philippines_typhoon	storm	For safety tips RubyPh á½¤Fá½¤Fá½¤Fá½¤F Repost smartcares ãƒ»ãƒ»ãƒ» A few safety tips for RubyPH. Be prepared andâ€¦ URL	caution_and_advice	not_humanitarian		
+671934266717024256	disaster_events	unknown	ChennaiRains: DMK chief M. Karunanidhi asks people to exercise caution and stay safe. 'Our full support with state government'.	caution_and_advice	sympathy_and_support		
+540010908668264448	2014_philippines_typhoon	storm	With 187 total brgys affected by typhoon RubyPH, we recorded some 13,794 total of families affected; 59,700... URL	displaced_and_evacuations	response_efforts		
+591903266931367936	2015_nepal_earthquake	earthquake	RT USER : Because of the devastating earthquake,the people in Nepal have to sleep on the streets and parks prayforNEPAL Nepal http:/‰Û_	displaced_and_evacuations	sympathy_and_support		
+508344745505345537	2014_pakistan_floods	flood	RT USER : PrayForPakistan the flood has left thousands of people homeless and many without food and clean water	displaced_and_evacuations	requests_or_needs		
+451188324334850048	2014_chile_earthquake	earthquake	RT USER : With nearly a million people evacuating amidst tsunami warnings and 60 aftershocks, World Vision is working to assess täó_	displaced_and_evacuations	caution_and_advice		
+540026906700029952	2014_philippines_typhoon	storm	. USER : The enormous effort of the gov't evacuating people from unsafe zones prevented potential loss of many lives. Hagupit RubyPH	displaced_and_evacuations	response_efforts		
+508343991222673408	2014_pakistan_floods	flood	Madrid Toll from Pakistan, India floods rises over 230: i24news PublishedSept... URL monaco	displaced_and_evacuations	injured_or_dead_people		
+576332040460718080	2015_vanuatu_cyclone-pam	storm	Team concerned not enough being done to evacuate children to safety as CyclonePam heads towards Vanuatu URL	displaced_and_evacuations	donation_and_volunteering		
+591903347080232960	2015_nepal_earthquake	earthquake	Thousands Queue Up Outside Kathmandu Airport in Hope of Way Out URL	displaced_and_evacuations	infrastructure_and_utilities_damage		
+591903355321982977	2015_nepal_earthquake	earthquake	RT USER : ‰ Õ URL KathmanduEarthquake Kathmandu Earthquake Injured Irish climber flown to Kathmandu after ea‰Û_ htt‰Û_	displaced_and_evacuations	injured_or_dead_people		
+575741326827765760	2015_vanuatu_cyclone	storm	'Monster' Cyclone Strikes a Heavy Toll in Vanuatu: More than 100,000 people are likely homeless, schools have ... URL	displaced_and_evacuations	injured_or_dead_people		
+910171756496920578	hurricane_irma	storm	Hard Rock Stadium quickly cleans up after Irma. See the before and after. URL URL	donation_and_volunteering	infrastructure_and_utilities_damage		
+919679214260953088	california_wildfires	fire	California fire officials planning repopulation of evacuated areas URL URL	donation_and_volunteering	affected_individual		
+930767624975286275	iraq_iran_earthquake	earthquake	A child rescued today 3 days after earthquake in Western Iran. URL	donation_and_volunteering	injured_or_dead_people		
+349295639303172096	2013_alberta_floods	flood	RT USER : If you volunteer, take: mask, HEADLAMP, rubber gloves/boots, bug spray, sunscreen. Also buckets. yychelps yycflood	donation_and_volunteering	caution_and_advice		
+591903131786551297	2015_nepal_earthquake	earthquake	RT USER : Indian Army establishes 45 bedded hospital at Lagankhel,Nepal NepalEarthquake OpMaitri	donation_and_volunteering	response_efforts		
+591903394576605184	2015_nepal_earthquake	earthquake	please consider giving some assistance to Nepal & all affected. Nepal NepalEarthquake Interdependence Compassion URL	donation_and_volunteering	response_efforts		
+931305936227991552	iraq_iran_earthquake	earthquake	Baby rescued from rubble 48 hours after the earthquake in Iran... because life must go on. URL	donation_and_volunteering	missing_and_found_people		
+910525520479227905	mexico_earthquake	earthquake	RT USER : Amid the rubble of Mexico's huge earthquake, there are many helping hands URL URL	donation_and_volunteering	missing_and_found_people		
+591902774599626754	2015_nepal_earthquake	earthquake	RT USER : NepalQuake: People in line for water distributions. 4.2 mil urgently need water, sanitation and health services. URL	donation_and_volunteering	requests_or_needs		
+591903111582617600	2015_nepal_earthquake	earthquake	RT USER : Nepal Police Nepal Army Nepali Doctors and Nurses Nepali People NTC Radio Nepal Our backbone! Thank you for all your effort‰Û_	donation_and_volunteering	response_efforts		
+592931120863252481	2015_nepal_earthquake	earthquake	rt USER USER 62yro crawled out from under rubble of house she spent her life building. nepalquake URL	infrastructure_and_utilities_damage	missing_and_found_people		
+707898009854550016	disaster_events	unknown	Lol BJP should use some Burnol..! india URL	infrastructure_and_utilities_damage	not_humanitarian		
+20932	disaster_events	unknown	For example, the country's century-old water management system will continue to be overwhelmed during heavy rains until the government invests in an overhaul, he said.	infrastructure_and_utilities_damage	requests_or_needs		
+919562980370604032	california_wildfires	fire	RT USER : Woman at Las Vegas shooting loses California home to wildfires URL URL	infrastructure_and_utilities_damage	affected_individual		
+214915876930068481	2012_colorado_wildfires	fire	Colorado fire tops 58,000 acres; weather stays hot and windy: Firefighters in Colorado faced another round of ni... URL	infrastructure_and_utilities_damage	affected_individual		
+672453375867400193	disaster_events	unknown	Chennai Ppl who have WiFi, if u remove the passwords it will help many nearby 2 access the relief &rescue resources URL	infrastructure_and_utilities_damage	donation_and_volunteering		
+381239286575542272	2013_colorado_floods	flood	RT USER : More spilled oil found in COflood aftermath, brings total to about 22,000 gallons released: URL	infrastructure_and_utilities_damage	affected_individual		
+906650124302131201	hurricane_harvey	storm	Houston residents confront officials over decision to flood neighborhoods URL USNews USRC URL	infrastructure_and_utilities_damage	affected_individual		
+390719453794557952	2013_australia_bushfire	fire	RT USER : There are now over 100 fires burning throughout NSW, over 40 remain out of control.	infrastructure_and_utilities_damage	caution_and_advice		
+907720093806858241	hurricane_harvey	storm	USER Even though HurricaneHarvey destroyed my apartment, I was able to save my favorite shirt URL	infrastructure_and_utilities_damage	not_humanitarian		
+191083833	2011_joplin_tornado-a121571	storm	Slow recovery from tornado in Kaukauna taking toll on residents: When there is so much devastation, it will take more than a few wee...	injured_or_dead_people	infrastructure_and_utilities_damage		
+191083738	2011_joplin_tornado-a121571	storm	USER : Possible tornado damage reported near Union City, TN. Multiple trees down, one building destroyed.	injured_or_dead_people	infrastructure_and_utilities_damage		
+591903294223585280	2015_nepal_earthquake	earthquake	RT USER : In Sindhupalchok alone, death reaches 1,300. 90% homes destroyed, desperate wait for help. URL NepalE‰Û_	injured_or_dead_people	infrastructure_and_utilities_damage		
+508334923023785984	2014_pakistan_floods	flood	RT USER : USER USER FLOOD IS NOT ONLY IN KASHMIR AS SHOWN BY MEDIA JAMMU HAD SUFFERED MORE LOSE AS HUMAN N PROPERTY	injured_or_dead_people	infrastructure_and_utilities_damage		
+191083165	2011_joplin_tornado-a121571	storm	Violent Weather Kills 7 in Oklahoma, Kansas - FoxNews.com URL via USER	injured_or_dead_people	not_humanitarian		
+920249445979181056	california_wildfires	fire	California wildfires hit home for Bills rookie Tanner Vallejo Bills URL URL	injured_or_dead_people	affected_individual		
+575740516022669313	2015_vanuatu_cyclone	storm	Indonesia Bahrain Cyclone PAM leaves death and destruction on its path in the Pacific URL Brazil Argentina	injured_or_dead_people	infrastructure_and_utilities_damage		
+508341537009598465	2014_pakistan_floods	flood	RT USER : Jammu & Kashmir floods: IAF, Army, NDRF step up rescue operations as death toll reaches 150 URL URL	injured_or_dead_people	donation_and_volunteering		
+785001874370035712	disaster_events	unknown	HurricaneMatthew: Haiti south '90% destroyed' & nearly 900 people killed. We're providing safe water & supplies: URL	injured_or_dead_people	requests_or_needs		
+910637916635959296	mexico_earthquake	earthquake	Mexicoâ€™s â€˜Molesâ€™ Dig Out Earthquake Victims URL URL	injured_or_dead_people	donation_and_volunteering		
+591906490090278912	2015_nepal_earthquake	earthquake	google person finder for earthquake URL	missing_and_found_people	caution_and_advice		
+508338501864423424	2014_pakistan_floods	flood	Army Rescues Pakistani Golf Team, Nepal Ambassador From Srinagar Floods: The Army today said that it has rescu... URL	missing_and_found_people	displaced_and_evacuations		
+591902727430479872	2015_nepal_earthquake	earthquake	These rescues from Nepal that are still happening are amazing. It just blows my mind that babies and others are still making it. Nepal	missing_and_found_people	not_humanitarian		
+671930221424062464	disaster_events	unknown	USER call pannalum vara matranga inga many families struck na. Back side of r10 police station, jafferkanpet. ChennaiFloods	missing_and_found_people	not_humanitarian		
+592070650359087104	2015_nepal_earthquake	earthquake	we are asking for anyone's help to try and locate or provide information about Mr.Erik Hogg who was at one of the base camps in nepal.	missing_and_found_people	requests_or_needs		
+191083818	2011_joplin_tornado-a121571	storm	USER You can report yourself Safe and Well or search for loved ones at URL joplin mowx tornado	missing_and_found_people	caution_and_advice		
+511444739082571776	2014_mexico_hurricane-odile	storm	How's the area of Miramar?? I have family there and no communication since Sunday odile odile damage	missing_and_found_people	infrastructure_and_utilities_damage		
+591963569849171969	2015_nepal_earthquake	earthquake	Nice initiative URL	missing_and_found_people	not_humanitarian		
+591903401828450304	2015_nepal_earthquake	earthquake	RT USER : Mount Everest disaster: British woman escaped death by 'outrunning' avalanche URL URL	missing_and_found_people	injured_or_dead_people		
+508342120189403137	2014_pakistan_floods	flood	Indian Army rescues Pakistan's golf team from kashmir floods URL	missing_and_found_people	displaced_and_evacuations		
+541973113869975552	2014_philippines_typhoon-hagupit	storm	��_ URL 717 ��_ TyphoonHagupit ��_ Typhoon Hagupit ��_ Typhoon brings strong winds, rain URL	not_humanitarian	response_efforts		
+916029619140218881	hurricane_maria	storm	RT USER : Reporter Ana Belaval on reason WGN trip to Puerto Rico was cancelled URL URL	not_humanitarian	donation_and_volunteering		
+296736895847768065	2013_queensland_floods	flood	amagenda the trash that comes out of Labor MPs mouths will be in full spin now!!! Not the most believable group of people!!	not_humanitarian	requests_or_needs		
+663108827764695042	disaster_events	unknown	RT if you like any of these bands:\nBayside\nMMI\nChelsea Grin\n5FDP\nletlive.\nPulled Apart By Horses\nKids In Glass Houses\nThe Blackout\nSum 41	not_humanitarian	infrastructure_and_utilities_damage		
+665419582778249216	disaster_events	unknown	I am disgusted by the world we live in. \nPrayForParis	not_humanitarian	requests_or_needs		
+348716011618443264	2013_singapore_haze	other	RT USER : USER : “ USER : singapore now: dengue haze SARS what's after this? world end?” contagious cancer…	not_humanitarian	affected_individual		
+592780021137309697	2015_nepal_earthquake	earthquake	Nepal earthquake: Death toll surges to 4,000 :( We all Indians always with you my dear nepali brothers n sister's .. URL	not_humanitarian	injured_or_dead_people		
+726431026940022785	disaster_events	unknown	Via USER Assad's military claims to have seized Israeli arms shipment in S. Syria URL twisters tcot fb	not_humanitarian	injured_or_dead_people		
+541253745422524416	2014_philippines_typhoon-hagupit	storm	expected landfall in Cebu isn't for another 12 hours but shit is already getting scary RubyPH	not_humanitarian	caution_and_advice		
+593241937047465984	2015_nepal_earthquake	earthquake	If you want to help Nepal, don't give the funds directly to the government.	not_humanitarian	requests_or_needs		
+626691998397784064	disaster_events	unknown	NeoAlert: Cyclone set to hit Bangladesh, Thousand of families has been evacuated.	requests_or_needs	displaced_and_evacuations		
+13796	disaster_events	unknown	URL - Delivering supplies to churches in Concepcion	requests_or_needs	donation_and_volunteering		
+13900	disaster_events	unknown	Another strong aftershock in the south of Chile that people on Santiago felt also	requests_or_needs	caution_and_advice		
+592841075762589699	2015_nepal_earthquake	earthquake	NepalEarthquake survivers in Melamchi area not rescued yet. Roads damaged. Need at least 3 choppers please. URL	requests_or_needs	infrastructure_and_utilities_damage		
+592720559215157248	2015_nepal_earthquake	earthquake	Have U seen this woman? Treking in Dhaulagiri #�__���_��_�����_� NepalEarthquake #�_�����_��__�__ #�_���Έ__�__�_ш_��_���� pokhara Dhaulagiri jomsom URL	requests_or_needs	not_humanitarian		
+589402609380773888	disaster_events	unknown	USER :Yemen: USER launches near-$275m humanitarian appeal as fighting intensifies URL via USER	requests_or_needs	donation_and_volunteering		
+20919	disaster_events	unknown	Authorities are now assessing damage and assisting the locals.	requests_or_needs	infrastructure_and_utilities_damage		
+13848	disaster_events	unknown	It seems the whole Santiago is in dark. A massive electric failure affects the city right now.	requests_or_needs	infrastructure_and_utilities_damage		
+18874	disaster_events	unknown	Outbreaks often follow major flooding, since heavy rains trigger a kind of wake-up call for the mosquitoes that carry the disease.	requests_or_needs	caution_and_advice		
+542012823636025344	2014_philippines_typhoon-hagupit	storm	Call for help in Samar URL philippines	requests_or_needs	response_efforts		
+592593377843159040	2015_nepal_earthquake	earthquake	Top story: Help Children in Nepal: Donate for earthquake response - Support UNI��_ URL see more URL	response_efforts	donation_and_volunteering		
+541303338542051328	2014_philippines_typhoon-hagupit	storm	am selling fifa 15 and madden 15 coins really cheap hit me up hurry FIFA15 FUT15 MUT15 fut coins STKARS NEWCHE MCFCvEFC RubyPH	response_efforts	not_humanitarian		
+592178505141522432	2015_nepal_earthquake	earthquake	In contrast, USER headlines with 'Nepal quake relief drive intensifies' URL	response_efforts	donation_and_volunteering		
+541272290760327168	2014_philippines_typhoon-hagupit	storm	Watching TyphoonHagupit tv coverage? Help USER to do it URL Philippines govt has asked us to support with logistics.	response_efforts	not_humanitarian		
+541692924925599744	2014_philippines_typhoon-hagupit	storm	Relief materials provided by Philippines' dept of social welfare and development. TyphoonHagupit URL	response_efforts	requests_or_needs		
+541792045593948160	2014_philippines_typhoon-hagupit	storm	MT ��� USER : Aust Gov response TyphoonHagupit Philippines URL for 4th year. What will U say @ COP20? auspol	response_efforts	not_humanitarian		
+593018840428224512	2015_nepal_earthquake	earthquake	Came here last eve, took us 6-7 hrs to set up makeshift hospital: RK Yadav (Commanding Officer, AMC) NepalEarthquake URL	response_efforts	not_humanitarian		
+593036467644960768	2015_nepal_earthquake	earthquake	USER What the media won't tell you. URL	response_efforts	not_humanitarian		
+541429702229901313	2014_philippines_typhoon-hagupit	storm	[WUNDERGROUND] Typhoon Hagupit - Western Pacific: Updated: Wind: 103 MPH | Location: 11.9N 235.3E | Movement: W��_ URL	response_efforts	not_humanitarian		
+592650028562382849	2015_nepal_earthquake	earthquake	ThanksYouPM ThankYouIndianArmy For your great support in EarthquakeNepal EarthquakeAgain URL	response_efforts	not_humanitarian		
+369713498562908160	2013_manila_floods	flood	FloodPH and PrayForThePhilippines are trending worldwide ajskldasjd ingat tayo guys.	sympathy_and_support	not_humanitarian		
+508340043065602048	2014_pakistan_floods	flood	â€œRT@Pervaiz_Khattak: Prayers with those who have been killed across Punjab due to heavy rain fall and floods.â€	sympathy_and_support	injured_or_dead_people		
+591903066359787520	2015_nepal_earthquake	earthquake	RT USER : : Nepal is in great need of help and prayers....and MSGHelpEarthquakeVictims is there to help them...No need to worry when ‰Û_	sympathy_and_support	donation_and_volunteering		
+508345046018428928	2014_pakistan_floods	flood	Natural Sikular Comment RT USER : Ghulam Nabi Azad says it is natural for flood-affected people to get angry KashmirFloods Modi	sympathy_and_support	donation_and_volunteering		
+503644650767261696	2014_california_earthquake	earthquake	USER thank god u left California, they had an earthquake	sympathy_and_support	not_humanitarian		
+277029446513487873	2012_philippines_typhoon-pablo	storm	RT USER : I've never seen anything like this before. pabloph @ Compostela, Compoatela Valley URL	sympathy_and_support	infrastructure_and_utilities_damage		
+575737691179868160	2015_vanuatu_cyclone	storm	Feeling for the beautiful people of Vanuatu. Recovery will take a long time. URL	sympathy_and_support	donation_and_volunteering		
+346597087011536896	2013_singapore_haze	other	RT USER : Singapore flyer should upgrade to prevent Singapore kena HAZE URL	sympathy_and_support	affected_individual		
+591902897257975808	2015_nepal_earthquake	earthquake	Massage to Nepal Residents. USER USER Earthquake URL	sympathy_and_support	response_efforts		
+382831970637475840	2013_pakistan_earthquake	earthquake	RT USER : Earthquake : help and support your brothers in need , Pakistan	sympathy_and_support	donation_and_volunteering		

@@ -1,0 +1,2 @@
+model,macro_precision,macro_recall,macro_f1,weighted_f1,accuracy
+TF-IDF + LR,0.6115,0.6785,0.6407,0.8116,0.8043

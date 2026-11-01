@@ -1,0 +1,16 @@
+true_label,predicted_label,count,share_of_true_class
+not_humanitarian,donation_and_volunteering,212,0.04
+not_humanitarian,sympathy_and_support,183,0.035
+not_humanitarian,infrastructure_and_utilities_damage,113,0.021
+not_humanitarian,caution_and_advice,96,0.018
+not_humanitarian,requests_or_needs,96,0.018
+not_humanitarian,response_efforts,87,0.017
+sympathy_and_support,not_humanitarian,62,0.115
+not_humanitarian,injured_or_dead_people,47,0.009
+response_efforts,not_humanitarian,37,0.327
+infrastructure_and_utilities_damage,not_humanitarian,35,0.069
+donation_and_volunteering,not_humanitarian,32,0.042
+affected_individual,donation_and_volunteering,30,0.082
+not_humanitarian,affected_individual,28,0.005
+infrastructure_and_utilities_damage,donation_and_volunteering,27,0.053
+requests_or_needs,not_humanitarian,27,0.038

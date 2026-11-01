@@ -1,0 +1,6 @@
+held_out_type,train_posts_removed,eval_posts,seen_macro_f1,unseen_macro_f1,seen_accuracy,unseen_accuracy,macro_f1_drop
+earthquake,10403,1571,0.5735,0.33,0.6645,0.5334,0.2435
+fire,1398,196,0.5699,0.3882,0.6684,0.551,0.1817
+flood,11775,1755,0.5497,0.4223,0.8741,0.8251,0.1274
+human_caused,8334,1206,0.5194,0.3372,0.9221,0.791,0.1821
+storm,19471,2787,0.494,0.3369,0.7808,0.6907,0.1571
