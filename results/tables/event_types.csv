@@ -1,6 +1,6 @@
 event_group,event_key,disaster_type,posts
-2011_joplin_tornado-a121571,2011_joplin_tornado-a121571,storm,767
-2011_joplin_tornado-a131709,2011_joplin_tornado-a131709,storm,43
+2011_joplin_tornado-a121571,2011_joplin_tornado,storm,767
+2011_joplin_tornado-a131709,2011_joplin_tornado,storm,43
 2012_colorado_wildfires,2012_colorado_wildfires,fire,480
 2012_costa-rica_earthquake,2012_costa-rica_earthquake,earthquake,135
 2012_guatemala_earthquake,2012_guatemala_earthquake,earthquake,96
@@ -8,8 +8,8 @@ event_group,event_key,disaster_type,posts
 2012_philipinnes_floods,2012_philipinnes_floods,flood,536
 2012_philippines_typhoon-pablo,2012_philippines_typhoon-pablo,storm,524
 2012_sandy_hurricane,2012_sandy_hurricane,storm,3679
-2012_us_sandy-hurricane-a143145,2012_us_sandy-hurricane-a143145,storm,65
-2012_us_sandy-hurricane-a144267,2012_us_sandy-hurricane-a144267,storm,281
+2012_us_sandy-hurricane-a143145,2012_sandy_hurricane,storm,65
+2012_us_sandy-hurricane-a144267,2012_sandy_hurricane,storm,281
 2012_venezuela_refinery-explosion,2012_venezuela_refinery-explosion,human_caused,46
 2013_alberta_floods,2013_alberta_floods,flood,5317
 2013_australia_bushfire,2013_australia_bushfire,fire,492
@@ -42,12 +42,12 @@ event_group,event_key,disaster_type,posts
 2014_mexico_hurricane-odile,2014_mexico_hurricane-odile,storm,844
 2014_middle-east_respiratory-syndrome,2014_middle-east_respiratory-syndrome,disease,91
 2014_pakistan_floods,2014_pakistan_floods,flood,1009
-2014_philippines_typhoon,2014_philippines_typhoon,storm,957
+2014_philippines_typhoon,2014_philippines_typhoon-hagupit,storm,957
 2014_philippines_typhoon-hagupit,2014_philippines_typhoon-hagupit,storm,5766
 2014_worldwide_ebola,2014_worldwide_ebola,disease,242
 2015_nepal_earthquake,2015_nepal_earthquake,earthquake,9653
 2015_vanuatu_cyclone,2015_vanuatu_cyclone,storm,1448
-2015_vanuatu_cyclone-pam,2015_vanuatu_cyclone-pam,storm,393
+2015_vanuatu_cyclone-pam,2015_vanuatu_cyclone,storm,393
 california_wildfires,california_wildfires,fire,851
 disaster_events,disaster_events,unknown,12550
 hurricane_harvey,hurricane_harvey,storm,2554

@@ -1,9 +1,9 @@
 disaster_type,posts,share_not_humanitarian,baseline_macro_f1,baseline_accuracy
 storm,2787,0.656,0.494,0.781
-flood,1755,0.745,0.55,0.874
+flood,1755,0.745,0.672,0.874
 earthquake,1571,0.459,0.574,0.665
-unknown,1281,0.307,0.479,0.849
-human_caused,1206,0.748,0.519,0.922
-fire,196,0.173,0.57,0.668
-other,109,0.431,0.412,0.706
-disease,29,0.862,0.478,0.862
+unknown,1281,0.307,0.586,0.849
+human_caused,1206,0.748,0.692,0.922
+fire,196,0.173,0.651,0.668
+other,109,0.431,0.481,0.706
+disease,29,0.862,0.957,0.862

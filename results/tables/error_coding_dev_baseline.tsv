@@ -9,23 +9,23 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline	error_code	notes
 907017813411483648	hurricane_harvey	storm	One Harvey evacuee is calling this McKinney Falls campsite home. Full story on USER : URL URL	affected_individual	not_humanitarian		
 296239358808309760	2013_queensland_floods	flood	in Massive Floods Hit Queensland, New So. Wales; 4 Dead, Thousands Evacuated: Massive summer floods killed four... URL	affected_individual	injured_or_dead_people		
 909421137590915073	hurricane_irma	storm	I survived hurricane Irma. My god is MERCIFUL. URL	affected_individual	infrastructure_and_utilities_damage		
-223607203	2012_us_sandy-hurricane-a144267	storm	NEW INFO: Sandy hitting gas pedal. Speeding up. Earlier collision with shore scheduled. Expect lots of damage. URL - NBC4	caution_and_advice	infrastructure_and_utilities_damage		
+223607203	2012_sandy_hurricane	storm	NEW INFO: Sandy hitting gas pedal. Speeding up. Earlier collision with shore scheduled. Expect lots of damage. URL - NBC4	caution_and_advice	infrastructure_and_utilities_damage		
 382823351544471553	2013_pakistan_earthquake	earthquake	New island formed after deadly Pakistan quake - FT URL	caution_and_advice	injured_or_dead_people		
 382823358226006016	2013_pakistan_earthquake	earthquake	RT USER : Two earthquakes in one week RT USER New quake strikes hard-hit Pakistan URL Balochistan	caution_and_advice	injured_or_dead_people		
 275764305985683456	2012_philippines_typhoon-pablo	storm	Centrio announces NOT OPEN for business TODAY due to PabloPH. CDO	caution_and_advice	not_humanitarian		
 451187965411065857	2014_chile_earthquake	earthquake	RT USER : The Chile quake in context: a map of all seismic activity from the past 2 weeks. URL URL	caution_and_advice	infrastructure_and_utilities_damage		
-576428649710166016	2015_vanuatu_cyclone-pam	storm	Worst may be past for Port Vila - pressure suggests maybe not a direct hit, but bad; spare a thought for all Vanuatu URL	caution_and_advice	sympathy_and_support		
+576428649710166016	2015_vanuatu_cyclone	storm	Worst may be past for Port Vila - pressure suggests maybe not a direct hit, but bad; spare a thought for all Vanuatu URL	caution_and_advice	sympathy_and_support		
 591902711265636352	2015_nepal_earthquake	earthquake	RT USER : The next 72 hrs will be critical & rescue efforts are complicated by the terrain NepalQuake: URL URL	caution_and_advice	donation_and_volunteering		
 204038352146673664	2012_italy_earthquakes	earthquake	RT USER : 5.9-magnitude earthquake strikes near Bologna, Italy (the earthquake had initially registered at magnitude 6.3) URL ...	caution_and_advice	affected_individual		
-540024805617983488	2014_philippines_typhoon	storm	For safety tips RubyPh á½¤Fá½¤Fá½¤Fá½¤F Repost smartcares ãƒ»ãƒ»ãƒ» A few safety tips for RubyPH. Be prepared andâ€¦ URL	caution_and_advice	not_humanitarian		
+540024805617983488	2014_philippines_typhoon-hagupit	storm	For safety tips RubyPh á½¤Fá½¤Fá½¤Fá½¤F Repost smartcares ãƒ»ãƒ»ãƒ» A few safety tips for RubyPH. Be prepared andâ€¦ URL	caution_and_advice	not_humanitarian		
 671934266717024256	disaster_events	unknown	ChennaiRains: DMK chief M. Karunanidhi asks people to exercise caution and stay safe. 'Our full support with state government'.	caution_and_advice	sympathy_and_support		
-540010908668264448	2014_philippines_typhoon	storm	With 187 total brgys affected by typhoon RubyPH, we recorded some 13,794 total of families affected; 59,700... URL	displaced_and_evacuations	response_efforts		
+540010908668264448	2014_philippines_typhoon-hagupit	storm	With 187 total brgys affected by typhoon RubyPH, we recorded some 13,794 total of families affected; 59,700... URL	displaced_and_evacuations	response_efforts		
 591903266931367936	2015_nepal_earthquake	earthquake	RT USER : Because of the devastating earthquake,the people in Nepal have to sleep on the streets and parks prayforNEPAL Nepal http:/‰Û_	displaced_and_evacuations	sympathy_and_support		
 508344745505345537	2014_pakistan_floods	flood	RT USER : PrayForPakistan the flood has left thousands of people homeless and many without food and clean water	displaced_and_evacuations	requests_or_needs		
 451188324334850048	2014_chile_earthquake	earthquake	RT USER : With nearly a million people evacuating amidst tsunami warnings and 60 aftershocks, World Vision is working to assess täó_	displaced_and_evacuations	caution_and_advice		
-540026906700029952	2014_philippines_typhoon	storm	. USER : The enormous effort of the gov't evacuating people from unsafe zones prevented potential loss of many lives. Hagupit RubyPH	displaced_and_evacuations	response_efforts		
+540026906700029952	2014_philippines_typhoon-hagupit	storm	. USER : The enormous effort of the gov't evacuating people from unsafe zones prevented potential loss of many lives. Hagupit RubyPH	displaced_and_evacuations	response_efforts		
 508343991222673408	2014_pakistan_floods	flood	Madrid Toll from Pakistan, India floods rises over 230: i24news PublishedSept... URL monaco	displaced_and_evacuations	injured_or_dead_people		
-576332040460718080	2015_vanuatu_cyclone-pam	storm	Team concerned not enough being done to evacuate children to safety as CyclonePam heads towards Vanuatu URL	displaced_and_evacuations	donation_and_volunteering		
+576332040460718080	2015_vanuatu_cyclone	storm	Team concerned not enough being done to evacuate children to safety as CyclonePam heads towards Vanuatu URL	displaced_and_evacuations	donation_and_volunteering		
 591903347080232960	2015_nepal_earthquake	earthquake	Thousands Queue Up Outside Kathmandu Airport in Hope of Way Out URL	displaced_and_evacuations	infrastructure_and_utilities_damage		
 591903355321982977	2015_nepal_earthquake	earthquake	RT USER : ‰ Õ URL KathmanduEarthquake Kathmandu Earthquake Injured Irish climber flown to Kathmandu after ea‰Û_ htt‰Û_	displaced_and_evacuations	injured_or_dead_people		
 575741326827765760	2015_vanuatu_cyclone	storm	'Monster' Cyclone Strikes a Heavy Toll in Vanuatu: More than 100,000 people are likely homeless, schools have ... URL	displaced_and_evacuations	injured_or_dead_people		
@@ -49,11 +49,11 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline	error_code	notes
 906650124302131201	hurricane_harvey	storm	Houston residents confront officials over decision to flood neighborhoods URL USNews USRC URL	infrastructure_and_utilities_damage	affected_individual		
 390719453794557952	2013_australia_bushfire	fire	RT USER : There are now over 100 fires burning throughout NSW, over 40 remain out of control.	infrastructure_and_utilities_damage	caution_and_advice		
 907720093806858241	hurricane_harvey	storm	USER Even though HurricaneHarvey destroyed my apartment, I was able to save my favorite shirt URL	infrastructure_and_utilities_damage	not_humanitarian		
-191083833	2011_joplin_tornado-a121571	storm	Slow recovery from tornado in Kaukauna taking toll on residents: When there is so much devastation, it will take more than a few wee...	injured_or_dead_people	infrastructure_and_utilities_damage		
-191083738	2011_joplin_tornado-a121571	storm	USER : Possible tornado damage reported near Union City, TN. Multiple trees down, one building destroyed.	injured_or_dead_people	infrastructure_and_utilities_damage		
+191083833	2011_joplin_tornado	storm	Slow recovery from tornado in Kaukauna taking toll on residents: When there is so much devastation, it will take more than a few wee...	injured_or_dead_people	infrastructure_and_utilities_damage		
+191083738	2011_joplin_tornado	storm	USER : Possible tornado damage reported near Union City, TN. Multiple trees down, one building destroyed.	injured_or_dead_people	infrastructure_and_utilities_damage		
 591903294223585280	2015_nepal_earthquake	earthquake	RT USER : In Sindhupalchok alone, death reaches 1,300. 90% homes destroyed, desperate wait for help. URL NepalE‰Û_	injured_or_dead_people	infrastructure_and_utilities_damage		
 508334923023785984	2014_pakistan_floods	flood	RT USER : USER USER FLOOD IS NOT ONLY IN KASHMIR AS SHOWN BY MEDIA JAMMU HAD SUFFERED MORE LOSE AS HUMAN N PROPERTY	injured_or_dead_people	infrastructure_and_utilities_damage		
-191083165	2011_joplin_tornado-a121571	storm	Violent Weather Kills 7 in Oklahoma, Kansas - FoxNews.com URL via USER	injured_or_dead_people	not_humanitarian		
+191083165	2011_joplin_tornado	storm	Violent Weather Kills 7 in Oklahoma, Kansas - FoxNews.com URL via USER	injured_or_dead_people	not_humanitarian		
 920249445979181056	california_wildfires	fire	California wildfires hit home for Bills rookie Tanner Vallejo Bills URL URL	injured_or_dead_people	affected_individual		
 575740516022669313	2015_vanuatu_cyclone	storm	Indonesia Bahrain Cyclone PAM leaves death and destruction on its path in the Pacific URL Brazil Argentina	injured_or_dead_people	infrastructure_and_utilities_damage		
 508341537009598465	2014_pakistan_floods	flood	RT USER : Jammu & Kashmir floods: IAF, Army, NDRF step up rescue operations as death toll reaches 150 URL URL	injured_or_dead_people	donation_and_volunteering		
@@ -64,7 +64,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline	error_code	notes
 591902727430479872	2015_nepal_earthquake	earthquake	These rescues from Nepal that are still happening are amazing. It just blows my mind that babies and others are still making it. Nepal	missing_and_found_people	not_humanitarian		
 671930221424062464	disaster_events	unknown	USER call pannalum vara matranga inga many families struck na. Back side of r10 police station, jafferkanpet. ChennaiFloods	missing_and_found_people	not_humanitarian		
 592070650359087104	2015_nepal_earthquake	earthquake	we are asking for anyone's help to try and locate or provide information about Mr.Erik Hogg who was at one of the base camps in nepal.	missing_and_found_people	requests_or_needs		
-191083818	2011_joplin_tornado-a121571	storm	USER You can report yourself Safe and Well or search for loved ones at URL joplin mowx tornado	missing_and_found_people	caution_and_advice		
+191083818	2011_joplin_tornado	storm	USER You can report yourself Safe and Well or search for loved ones at URL joplin mowx tornado	missing_and_found_people	caution_and_advice		
 511444739082571776	2014_mexico_hurricane-odile	storm	How's the area of Miramar?? I have family there and no communication since Sunday odile odile damage	missing_and_found_people	infrastructure_and_utilities_damage		
 591963569849171969	2015_nepal_earthquake	earthquake	Nice initiative URL	missing_and_found_people	not_humanitarian		
 591903401828450304	2015_nepal_earthquake	earthquake	RT USER : Mount Everest disaster: British woman escaped death by 'outrunning' avalanche URL URL	missing_and_found_people	injured_or_dead_people		
