@@ -11,8 +11,8 @@ disaster_events,1281,0.307,0.586,0.849
 2014-2015_worldwide_landslides,292,1.0,0.979,0.959
 hurricane_maria,266,0.556,0.518,0.677
 hurricane_harvey,261,0.337,0.488,0.644
-2015_vanuatu_cyclone,200,0.395,0.607,0.81
 hurricane_irma,200,0.4,0.64,0.67
+2015_vanuatu_cyclone,200,0.395,0.607,0.81
 2014_chile_earthquake,155,0.232,0.541,0.839
 2013_pakistan_earthquake,113,0.327,0.623,0.664
 mexico_earthquake,97,0.32,0.636,0.649
@@ -24,7 +24,7 @@ california_wildfires,80,0.4,0.542,0.575
 2013_colorado_floods,69,0.029,0.592,0.754
 2013_manila_floods,64,0.062,0.613,0.688
 2013_phillipines_typhoon-yolanda,63,0.0,0.677,0.714
-2012_philippines_typhoon-pablo,58,0.034,0.658,0.672
 2013_australia_bushfire,58,0.017,0.59,0.672
+2012_philippines_typhoon-pablo,58,0.034,0.658,0.672
 srilanka_floods,58,0.759,0.694,0.879
 2012_philipinnes_floods,54,0.037,0.567,0.685

@@ -24,7 +24,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 382817968205205504	2013_pakistan_earthquake	earthquake	RT USER : Balochistan May Allah help you. May there be peace in your hearts and territory. Please remain a part of Pakistan. We waâ€¦	sympathy_and_support	sympathy_and_support	sympathy_and_support
 915017760266084352	mexico_earthquake	earthquake	USER USER Mexico's earthquake victims can't even get donations bc of cartels! URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 243370144330563584	2012_costa-rica_earthquake	earthquake	Strong earthquake hits Costa Rica: A powerful earthquake of 7.9 magnitude rocks north-west Costa Rica, triggerin... URL	caution_and_advice	caution_and_advice	not_humanitarian
-503645436360417280	2014_california_earthquake	earthquake	RT USER : Great news California. Lot of earthquake experts on my flight to San Francisco.	not_humanitarian	caution_and_advice	infrastructure_and_utilities_damage
+503645436360417280	2014_california_earthquake	earthquake	RT USER : Great news California. Lot of earthquake experts on my flight to San Francisco.	not_humanitarian	caution_and_advice	not_humanitarian
 382823351544471553	2013_pakistan_earthquake	earthquake	New island formed after deadly Pakistan quake - FT URL	caution_and_advice	injured_or_dead_people	infrastructure_and_utilities_damage
 592801581122396162	2015_nepal_earthquake	earthquake	I wish I could be in Nepal helping people with what I can right now	not_humanitarian	response_efforts	requests_or_needs
 503870779709460481	2014_california_earthquake	earthquake	RT USER : California begins clear-up after San Francisco quake URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
@@ -64,7 +64,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 451616246237102080	2014_chile_earthquake	earthquake	My thoughts & prayers are with the friends & families of the ChileEarthquake and the USER shooting today. somanytragedieslately	sympathy_and_support	sympathy_and_support	sympathy_and_support
 243390360884232192	2012_costa-rica_earthquake	earthquake	RT USER : Costa Rica president says no report of loss of life so far after quake - USER ; more updates on URL ...	affected_individual	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 593017364863520768	2015_nepal_earthquake	earthquake	In helpers without borders. NepalQuakeRelief Baltimore Ferguson	not_humanitarian	response_efforts	requests_or_needs
-382835377788035074	2013_pakistan_earthquake	earthquake	Also let us not forget the victims of earthquakes in Pakistan, we all are thinking of the survivors and their rescuers	sympathy_and_support	sympathy_and_support	sympathy_and_support
+382835377788035074	2013_pakistan_earthquake	earthquake	Also let us not forget the victims of earthquakes in Pakistan, we all are thinking of the survivors and their rescuers	sympathy_and_support	sympathy_and_support	requests_or_needs
 451190031504658432	2014_chile_earthquake	earthquake	RT USER : Urgent Prayer Request: 8.2 mag earthquake with Tsunami warnings and watches for Chile, Ecuador and Peru. Please RT: htäó_	sympathy_and_support	caution_and_advice	caution_and_advice
 911975380419993601	mexico_earthquake	earthquake	Immigrants touched by Mexico quake, try to help from afar - Chicago Tribune URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 389947907412996096	2013_bohol_earthquake	earthquake	RT USER : INFOGRAPHIC: Map locating the epicentre of a 7.1-magnitude quake that hit central Philippines URL | …	caution_and_advice	caution_and_advice	infrastructure_and_utilities_damage
@@ -82,7 +82,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 503644565849374722	2014_california_earthquake	earthquake	RT USER : There is also a shelter open in Vallejo for those needing a place to stay: Florence Douglas Center- 333 Amador St, Vallâ€¦	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 382832850825150464	2013_pakistan_earthquake	earthquake	RT USER : Please Help the EarthQuake Victims directly, Instead of Pakistani Army or Government	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 592912258969300993	2015_nepal_earthquake	earthquake	Stay strong and Safe Nepal! URL	not_humanitarian	sympathy_and_support	sympathy_and_support
-382830377158471680	2013_pakistan_earthquake	earthquake	RT USER : V.important earthquake safety basics by USER - URL mustread	caution_and_advice	caution_and_advice	infrastructure_and_utilities_damage
+382830377158471680	2013_pakistan_earthquake	earthquake	RT USER : V.important earthquake safety basics by USER - URL mustread	caution_and_advice	caution_and_advice	caution_and_advice
 592088612369465344	2015_nepal_earthquake	earthquake	Google Innovations Lab executive Dan Fredinburg among victims of Everest avalanche: URL NepalEarthquake	injured_or_dead_people	injured_or_dead_people	not_humanitarian
 591903395994148864	2015_nepal_earthquake	earthquake	Want to know how the US is providing live-saving assistance in the aftermath of the NepalEarthquake? Read this: URL	donation_and_volunteering	requests_or_needs	requests_or_needs
 451189219004645376	2014_chile_earthquake	earthquake	Whaat? Earthquake again :o PrayForChile	sympathy_and_support	sympathy_and_support	requests_or_needs
@@ -106,7 +106,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 593151846363062272	2015_nepal_earthquake	earthquake	God save the people if Nepal	not_humanitarian	not_humanitarian	not_humanitarian
 930116757938954248	iraq_iran_earthquake	earthquake	In photos: Survivor search continues after earthquake decimates Iran and Iraq URL URL	donation_and_volunteering	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 910537872205389825	mexico_earthquake	earthquake	Rescuers search collapsed school after Mexico earthquake URL URL	donation_and_volunteering	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
-503644162466795522	2014_california_earthquake	earthquake	RT USER : â€œ@JuicyJaaae: Drop like an earthquake!â€ USER	not_humanitarian	donation_and_volunteering	infrastructure_and_utilities_damage
+503644162466795522	2014_california_earthquake	earthquake	RT USER : â€œ@JuicyJaaae: Drop like an earthquake!â€ USER	not_humanitarian	donation_and_volunteering	sympathy_and_support
 592638722832666625	2015_nepal_earthquake	earthquake	First i will raise questions Y ThankYouPM instead of NepalQuake and later i will tweet on ThankYouPM as i am moron URL	not_humanitarian	response_efforts	requests_or_needs
 592648588582195200	2015_nepal_earthquake	earthquake	holy pashupatinath cremation area shrouded in smoke clouds. May d departed souls rest in peace NepalEarthquake URL	not_humanitarian	sympathy_and_support	not_humanitarian
 593028827393105920	2015_nepal_earthquake	earthquake	O My God its very very big tragedy God Bless them all URL	not_humanitarian	sympathy_and_support	not_humanitarian
@@ -175,7 +175,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 593012101863612416	2015_nepal_earthquake	earthquake	the apple watch goes up to $17000, meanwhile thousands of people are dying in Nepal. but u know, why not spend it on a phone for ur wrist?	not_humanitarian	not_humanitarian	requests_or_needs
 592073412316639232	2015_nepal_earthquake	earthquake	Hmmm, 1200 souls URL	sympathy_and_support	not_humanitarian	not_humanitarian
 592068545103720448	2015_nepal_earthquake	earthquake	Prayer for Nepal	sympathy_and_support	sympathy_and_support	sympathy_and_support
-911698717949911040	mexico_earthquake	earthquake	New 6.2-magnitude earthquake interrupts rescue efforts in Mexico URL URL	donation_and_volunteering	donation_and_volunteering	missing_and_found_people
+911698717949911040	mexico_earthquake	earthquake	New 6.2-magnitude earthquake interrupts rescue efforts in Mexico URL URL	donation_and_volunteering	donation_and_volunteering	injured_or_dead_people
 592828377142296579	2015_nepal_earthquake	earthquake	without evidence Prof. Claims Global Warming Caused Nepal�۪s Earthquakes URL	not_humanitarian	not_humanitarian	not_humanitarian
 592641634845773824	2015_nepal_earthquake	earthquake	When u can't wait until ur friend is outta of Nepal and safely home so you can say I knew we should have gone to Ibiza and had a mad one	not_humanitarian	not_humanitarian	not_humanitarian
 503643697981169664	2014_california_earthquake	earthquake	USA Â» NEWS Â» HOT NEWS 708 earthquake Napa earthquake: Power restored to thousands cleanup continues earthquake... URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
@@ -211,7 +211,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 503643453633613825	2014_california_earthquake	earthquake	WOW! The damage: RT USER Big Chunk of the MaxwellBridge in Napa âž¤ TVcamera used for scale NapaQuake URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 592159407242280960	2015_nepal_earthquake	earthquake	USER sir..salute..u nd lots of respect... for..the immediate action that u have taken.. during NepalEarthquake USER	not_humanitarian	not_humanitarian	not_humanitarian
 591902840701915136	2015_nepal_earthquake	earthquake	USER USER USER Har Haal Nepal ke saath would have been better phonetically. Appreciate the gesture though.	not_humanitarian	not_humanitarian	not_humanitarian
-592625625615233025	2015_nepal_earthquake	earthquake	Disastrous news coming from Nepal, such a tragedy.	not_humanitarian	sympathy_and_support	sympathy_and_support
+592625625615233025	2015_nepal_earthquake	earthquake	Disastrous news coming from Nepal, such a tragedy.	not_humanitarian	sympathy_and_support	not_humanitarian
 592705979512414208	2015_nepal_earthquake	earthquake	and does are PM deserve a ThankYouPM URL	not_humanitarian	not_humanitarian	not_humanitarian
 504276822565990400	2014_california_earthquake	earthquake	Napa's Hess Collection's James Caudill on quake damage at winery: URL via USER	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 382827047674208256	2013_pakistan_earthquake	earthquake	I love the way u twerkit & how u make dat earthquake & dat bootyshake	not_humanitarian	not_humanitarian	not_humanitarian
@@ -269,7 +269,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592653219131719681	2015_nepal_earthquake	earthquake	Indonesia to send assistance to Nepal soon URL	response_efforts	response_efforts	donation_and_volunteering
 451187637463031808	2014_chile_earthquake	earthquake	USER our little weirdo lovehim URL	not_humanitarian	not_humanitarian	not_humanitarian
 592650028562382849	2015_nepal_earthquake	earthquake	ThanksYouPM ThankYouIndianArmy For your great support in EarthquakeNepal EarthquakeAgain URL	response_efforts	not_humanitarian	donation_and_volunteering
-451189973652226048	2014_chile_earthquake	earthquake	RT USER : USER : PrayForChile Wth! Earthquake 8.2 RS	sympathy_and_support	sympathy_and_support	infrastructure_and_utilities_damage
+451189973652226048	2014_chile_earthquake	earthquake	RT USER : USER : PrayForChile Wth! Earthquake 8.2 RS	sympathy_and_support	sympathy_and_support	sympathy_and_support
 592743061417041920	2015_nepal_earthquake	earthquake	USER It wud be rly helpful if u cud RT dis-Handicap International is a four-star charity NepalEarthquake URL	not_humanitarian	response_efforts	not_humanitarian
 592818161097056256	2015_nepal_earthquake	earthquake	URL usa Facebook Is Matching Every Dollar Donated To Nepal��_ URL URL usa	response_efforts	response_efforts	not_humanitarian
 592664735604207616	2015_nepal_earthquake	earthquake	The head of the state and Army I'd the President, the supreme commander it's his orders that make the army jump to help Nepal ThankUArmy	not_humanitarian	not_humanitarian	requests_or_needs
@@ -403,7 +403,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592680548730023937	2015_nepal_earthquake	earthquake	Marking safe in FB doesn't help those who are actually looking for loved ones and can't reach to them earthquake URL	not_humanitarian	missing_and_found_people	requests_or_needs
 503643987295473666	2014_california_earthquake	earthquake	RT USER : napaquake damage. Broken chimneys and other problems KTVU @ 10:29p URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 592693143100911618	2015_nepal_earthquake	earthquake	Someone needs to take charge of these gaggle fucks from Mumbai, who're marking themselves safe from the NepalEarthquake on FB!! USER	not_humanitarian	not_humanitarian	not_humanitarian
-591903028183060480	2015_nepal_earthquake	earthquake	USER Brazil let's pray for families from Nepal! Following in CNN righ now 3,700 dead after earthquake.	injured_or_dead_people	sympathy_and_support	injured_or_dead_people
+591903028183060480	2015_nepal_earthquake	earthquake	USER Brazil let's pray for families from Nepal! Following in CNN righ now 3,700 dead after earthquake.	injured_or_dead_people	sympathy_and_support	affected_individual
 912379955257810944	mexico_earthquake	earthquake	Crews keep searching for victims of Mexico earthquake URL sandiego URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 451189108291796992	2014_chile_earthquake	earthquake	Ventanas, Chile: Workers were evacuated from a copper refinery following a magnitude 8.2 earthquake. URL	displaced_and_evacuations	displaced_and_evacuations	infrastructure_and_utilities_damage
 592084870358110208	2015_nepal_earthquake	earthquake	URL ��� ���SEXY GIRLS PICTURES! RuinARomanticMomentIn4Words ResistCapitalism Nepal sebchat Angry URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -499,7 +499,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 591903261495537665	2015_nepal_earthquake	earthquake	Emergency declared in Nepal after massive NepalEarthquake URL	caution_and_advice	response_efforts	injured_or_dead_people
 503643491852111872	2014_california_earthquake	earthquake	RT USER : The kids tell me they will donate to The Napa Landmarks to help rebuild the downtown area. napaquake URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 592100491657682944	2015_nepal_earthquake	earthquake	ICC World Cricket League Division Three BER v NEPAL Nepal won by 8 wickets (with 232 balls remaining)	not_humanitarian	not_humanitarian	not_humanitarian
-592768219938709505	2015_nepal_earthquake	earthquake	Love working for this amazing company! Facebook will match donations made for Nepal up to $2M dollars! Go Mark! URL	not_humanitarian	not_humanitarian	donation_and_volunteering
+592768219938709505	2015_nepal_earthquake	earthquake	Love working for this amazing company! Facebook will match donations made for Nepal up to $2M dollars! Go Mark! URL	not_humanitarian	not_humanitarian	not_humanitarian
 451189977859121152	2014_chile_earthquake	earthquake	RT USER : let's pray for chile and let our hearts open PrayForChile	sympathy_and_support	sympathy_and_support	sympathy_and_support
 593025464647741442	2015_nepal_earthquake	earthquake	USER USER great interview indeed ,should have been followed by NepalEarthquake not dull election ! 5000 dead and counting	not_humanitarian	not_humanitarian	not_humanitarian
 592736129096523777	2015_nepal_earthquake	earthquake	I am hearing the neighborhood dogs crying at mid night, not sure what they are indicating....! God bless us!! Nepal NepalQuake	not_humanitarian	not_humanitarian	not_humanitarian
@@ -517,7 +517,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592599114178760705	2015_nepal_earthquake	earthquake	USER I just searched Nepal climate change and that is actually scary.	not_humanitarian	not_humanitarian	not_humanitarian
 593255099046039552	2015_nepal_earthquake	earthquake	Message from BCA Bishop Kodo Umezu concerning Nepal. URL	not_humanitarian	response_efforts	not_humanitarian
 592631079229501440	2015_nepal_earthquake	earthquake	I think u right noe for cash donations URL	response_efforts	donation_and_volunteering	donation_and_volunteering
-592592483839803392	2015_nepal_earthquake	earthquake	NepalEarthquake death toll hits 3350..lets pray for our brothers n sisters	not_humanitarian	sympathy_and_support	sympathy_and_support
+592592483839803392	2015_nepal_earthquake	earthquake	NepalEarthquake death toll hits 3350..lets pray for our brothers n sisters	not_humanitarian	sympathy_and_support	injured_or_dead_people
 910778651846877185	mexico_earthquake	earthquake	Mexico searches for earthquake survivors against increasing odds URL	donation_and_volunteering	missing_and_found_people	missing_and_found_people
 591902899598282752	2015_nepal_earthquake	earthquake	Later this year, I am walking 100km for Oxfam. Any money raised in the next two weeks will go directly to Nepal URL	donation_and_volunteering	not_humanitarian	requests_or_needs
 592950142485065728	2015_nepal_earthquake	earthquake	So much violence everywhere BaltimoreRiots NepalEarthquake Areyoulistening lordhavemercy	not_humanitarian	not_humanitarian	not_humanitarian
@@ -552,7 +552,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 266646170112233472	2012_guatemala_earthquake	earthquake	RT USER : 52 dead in Guatemala, many more missing due to the earthquake yesterday - URL (via USER )	affected_individual	affected_individual	injured_or_dead_people
 591903024416727040	2015_nepal_earthquake	earthquake	RT USER : Amateur Radio Helping Nepal - Video: This video is an effort to show the world how important c... URL hamr ‰Û_	donation_and_volunteering	response_efforts	donation_and_volunteering
 503645598105743360	2014_california_earthquake	earthquake	RT USER : Salvation Army Responding To Napa Earthquake : The Salvation Army URL earthquake	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-382831140631224320	2013_pakistan_earthquake	earthquake	RT USER : Oh how much I feel this! NUST Earthquake noonecares URL	not_humanitarian	sympathy_and_support	not_humanitarian
+382831140631224320	2013_pakistan_earthquake	earthquake	RT USER : Oh how much I feel this! NUST Earthquake noonecares URL	not_humanitarian	sympathy_and_support	sympathy_and_support
 592899333206503425	2015_nepal_earthquake	earthquake	trash tweet URL	not_humanitarian	not_humanitarian	not_humanitarian
 591903390025666560	2015_nepal_earthquake	earthquake	RT USER : If you would like to make a donation toward disaster relief in Nepal, you can do so through Fellowship. URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 592200748886163456	2015_nepal_earthquake	earthquake	Worried 4 my friends. God hold them in your hands. Keep them. Work as only U can 4 all touched by NepalQuake URL	not_humanitarian	sympathy_and_support	sympathy_and_support
@@ -637,7 +637,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 912263967401287680	mexico_earthquake	earthquake	Star Striker, Ronaldo Pays Tribute To Mexico Earthquake Victim. See more details here=> URL URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 592685898698993664	2015_nepal_earthquake	earthquake	Photo: Sending prayers to Nepal.... URL	not_humanitarian	not_humanitarian	sympathy_and_support
 591903056603680768	2015_nepal_earthquake	earthquake	RT USER : PrayForNepal get well soon‡_¢D	sympathy_and_support	sympathy_and_support	not_humanitarian
-389941670466166784	2013_bohol_earthquake	earthquake	Mayor Rama announced no classes for both private and public schools until tomorrow. cebu earthquakePH | via USER	caution_and_advice	caution_and_advice	response_efforts
+389941670466166784	2013_bohol_earthquake	earthquake	Mayor Rama announced no classes for both private and public schools until tomorrow. cebu earthquakePH | via USER	caution_and_advice	caution_and_advice	not_humanitarian
 503645223369465856	2014_california_earthquake	earthquake	RT USER : New pictures from the Napa quake. Damage could reach $1 billion. USER at 5pm URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 593013554434945024	2015_nepal_earthquake	earthquake	Prayers for Nepal. NepalEarthquake NepalQuakeRelief	not_humanitarian	response_efforts	sympathy_and_support
 592994242378788864	2015_nepal_earthquake	earthquake	��_See the Schizophrenia �_�5 & Tell me your opinion URL #���_�_��􁯱�����_��_���_����_����_�����_�_ NepalEarthquake	not_humanitarian	not_humanitarian	not_humanitarian
@@ -796,12 +796,12 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 382834863529017344	2013_pakistan_earthquake	earthquake	USER What's with the Balochistan CMs and the UK? BalochisanEarthquake	not_humanitarian	not_humanitarian	not_humanitarian
 592085707813847042	2015_nepal_earthquake	earthquake	nepal earthquake(�_ӕ_���)	not_humanitarian	response_efforts	requests_or_needs
 591902840957734912	2015_nepal_earthquake	earthquake	RT USER : Nepal landmark 200 years old, Dharahara Tower collapsed from earthquake Pray for Nepal ! MSGHelpEarthquakeVictims URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	injured_or_dead_people
-592596851779575809	2015_nepal_earthquake	earthquake	As a heart broken former resident of Kathmandu I need you to get your bank cards out and donate. Thank you USER URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
+592596851779575809	2015_nepal_earthquake	earthquake	As a heart broken former resident of Kathmandu I need you to get your bank cards out and donate. Thank you USER URL	not_humanitarian	donation_and_volunteering	requests_or_needs
 592800216673329153	2015_nepal_earthquake	earthquake	USER a spare �1 or an RT? two 8yr olds trying to help The ���Jam Jam�۪ Triathlon ��� Raising money for Nepal URL	not_humanitarian	response_efforts	donation_and_volunteering
 451188893954502657	2014_chile_earthquake	earthquake	Pray for Chile tonight! There was an 8.2 earthquake off the coast earlier & from what I've seen/read there is a lot of damage. Please pray.	infrastructure_and_utilities_damage	sympathy_and_support	infrastructure_and_utilities_damage
 382831413642690560	2013_pakistan_earthquake	earthquake	RT USER : Islamists are beyond pathetic and disgusting Prayers for all the Innocent lives lost in Nigeria Egypt Pakistan URL	not_humanitarian	sympathy_and_support	sympathy_and_support
 592659132789952513	2015_nepal_earthquake	earthquake	Praise God. So thankful. URL	not_humanitarian	not_humanitarian	not_humanitarian
-931305936227991552	iraq_iran_earthquake	earthquake	Baby rescued from rubble 48 hours after the earthquake in Iran... because life must go on. URL	donation_and_volunteering	missing_and_found_people	requests_or_needs
+931305936227991552	iraq_iran_earthquake	earthquake	Baby rescued from rubble 48 hours after the earthquake in Iran... because life must go on. URL	donation_and_volunteering	missing_and_found_people	missing_and_found_people
 910624384850780160	mexico_earthquake	earthquake	RT USER : Rescue Lab Frida helping victims of Mexico's earthquake. â¤ï¸ URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 591963569849171969	2015_nepal_earthquake	earthquake	Nice initiative URL	missing_and_found_people	not_humanitarian	not_humanitarian
 591903250644885504	2015_nepal_earthquake	earthquake	RT USER : 30/75 districts in Nepal impacted by NepalEarthquake, new map shows epicenter aftershocks URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
@@ -844,7 +844,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592825802942742530	2015_nepal_earthquake	earthquake	Close to 4000 people died in Nepal, but you know, let's burn Baltimore down. I bet my whole life saving they couldn't find Nepal on a map	not_humanitarian	not_humanitarian	injured_or_dead_people
 592757929322881024	2015_nepal_earthquake	earthquake	Winnipeg woman forced to hike 12 hrs to safety after NepalEarthquake cbcmb URL URL	not_humanitarian	donation_and_volunteering	affected_individual
 592161571092221953	2015_nepal_earthquake	earthquake	I woke up this morning and Nepal was at 1.2M tweets. Now it's at 1.7M	not_humanitarian	not_humanitarian	not_humanitarian
-592593508978040833	2015_nepal_earthquake	earthquake	Two Ways You Can Join Nepal's Earthquake Relief Effort From a Computer URL	response_efforts	response_efforts	requests_or_needs
+592593508978040833	2015_nepal_earthquake	earthquake	Two Ways You Can Join Nepal's Earthquake Relief Effort From a Computer URL	response_efforts	response_efforts	donation_and_volunteering
 591903032649986049	2015_nepal_earthquake	earthquake	RT USER : One way you can help Nepal right now: All you need is a computer and a little time URL	donation_and_volunteering	not_humanitarian	not_humanitarian
 382815055781588992	2013_pakistan_earthquake	earthquake	RT USER : At 1:13:15 Christian Aid speaks about the difficulties in delivering aid following the Pakistan quake: URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 592071944188653570	2015_nepal_earthquake	earthquake	Praying for those in Nepal�_�E	sympathy_and_support	sympathy_and_support	sympathy_and_support
@@ -856,7 +856,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 451622407522881536	2014_chile_earthquake	earthquake	Damage From Chile Earthquake Far Less Severe Than Feared: Chilean President Michelle Bachelet toured northern... URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 451188033342025729	2014_chile_earthquake	earthquake	Poor people of Chile , God have mercy on them.	sympathy_and_support	sympathy_and_support	requests_or_needs
 592069182713278465	2015_nepal_earthquake	earthquake	Dayum.. URL	not_humanitarian	response_efforts	donation_and_volunteering
-591903266931367936	2015_nepal_earthquake	earthquake	RT USER : Because of the devastating earthquake,the people in Nepal have to sleep on the streets and parks prayforNEPAL Nepal http:/‰Û_	displaced_and_evacuations	sympathy_and_support	injured_or_dead_people
+591903266931367936	2015_nepal_earthquake	earthquake	RT USER : Because of the devastating earthquake,the people in Nepal have to sleep on the streets and parks prayforNEPAL Nepal http:/‰Û_	displaced_and_evacuations	sympathy_and_support	requests_or_needs
 592594799607226368	2015_nepal_earthquake	earthquake	Nepal earthquake: PM Modi praises armed forces, NDRF for rescue work - Daily News & Analysis: Daily News & Ana... URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
 592826936600227840	2015_nepal_earthquake	earthquake	USER havoc destruction NepalEarthquake ... provide facts from there...	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 592627037229187072	2015_nepal_earthquake	earthquake	To those in Nepal that are homeless or lost their loved ones, May God console you and give you a new beginning NepalEarthquake	not_humanitarian	not_humanitarian	not_humanitarian
@@ -904,7 +904,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 243381145994133504	2012_costa-rica_earthquake	earthquake	RT USER : No casualties reported after Costa Rica quake so far-Red Cross URL redcross quake costarica	affected_individual	affected_individual	injured_or_dead_people
 592593184380702720	2015_nepal_earthquake	earthquake	English News The Latest: Facebook activates Safety Check for Nepal: 10 a.m. (0415 GMT) Facebook has activate... URL	response_efforts	response_efforts	not_humanitarian
 592075984662339584	2015_nepal_earthquake	earthquake	Insects Evolution...NEPAL! Let's keep on SHARING! I tweeted...already!	not_humanitarian	not_humanitarian	not_humanitarian
-390327424782966784	2013_bohol_earthquake	earthquake	Breaking News: Death toll in Philippines quake approaches 100 URL	affected_individual	affected_individual	affected_individual
+390327424782966784	2013_bohol_earthquake	earthquake	Breaking News: Death toll in Philippines quake approaches 100 URL	affected_individual	affected_individual	injured_or_dead_people
 592162141504806912	2015_nepal_earthquake	earthquake	First Hand Account: Lessons learnt in Gujarat relevant in Nepal now | URL	not_humanitarian	not_humanitarian	injured_or_dead_people
 592708695781412865	2015_nepal_earthquake	earthquake	Do we have more victims or more indian TV reporters in Nepal	not_humanitarian	response_efforts	injured_or_dead_people
 451187810179899392	2014_chile_earthquake	earthquake	Was there ANOTHER major earthquake in Chile? Holy shit.	not_humanitarian	sympathy_and_support	requests_or_needs
@@ -1207,7 +1207,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592590458427084800	2015_nepal_earthquake	earthquake	Death toll from NepalEarthquake passes 3,300, officials say URL URL	not_humanitarian	injured_or_dead_people	injured_or_dead_people
 382832485190488064	2013_pakistan_earthquake	earthquake	Another strong Jolt of EarthQuake hit the Baluchistan province of Pakistan,Many houses wr destroyed,Many civil remained under collapsed	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 592732547177644035	2015_nepal_earthquake	earthquake	USER URL God : 1 Pimp of God USER : 0 URL	not_humanitarian	not_humanitarian	not_humanitarian
-503643464047681536	2014_california_earthquake	earthquake	RT USER : Queen of the Valley Medical Center: 3 hospital employees were injured in napaquake; 13 patients admitted to hospital out oâ€¦	injured_or_dead_people	injured_or_dead_people	infrastructure_and_utilities_damage
+503643464047681536	2014_california_earthquake	earthquake	RT USER : Queen of the Valley Medical Center: 3 hospital employees were injured in napaquake; 13 patients admitted to hospital out oâ€¦	injured_or_dead_people	injured_or_dead_people	affected_individual
 592694639515295746	2015_nepal_earthquake	earthquake	wish I could help out with nepal..someone should send me there..	not_humanitarian	not_humanitarian	not_humanitarian
 592590729207160832	2015_nepal_earthquake	earthquake	Pray for Nepal�_�0�_�D	not_humanitarian	sympathy_and_support	not_humanitarian
 593009028311162883	2015_nepal_earthquake	earthquake	I will say we should be more concerned with the natural disaster in Nepal rather than creating a large man made disaster in our country tho.	not_humanitarian	not_humanitarian	requests_or_needs
@@ -1254,10 +1254,10 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592989338226466817	2015_nepal_earthquake	earthquake	USER Oh people! Please Know Your Creator. URL NepalEarthquake Nepal Islam Is URL	not_humanitarian	response_efforts	not_humanitarian
 592109013728276481	2015_nepal_earthquake	earthquake	How to help NepalEarthquake :( RT plese!! URL	response_efforts	donation_and_volunteering	donation_and_volunteering
 503644096649756673	2014_california_earthquake	earthquake	RT USER : Patients continue to arrive at Queen of the Valley Hospital. Triage tents set up to treat injured. earthquake Napa hâ€¦	injured_or_dead_people	injured_or_dead_people	requests_or_needs
-591903232751874048	2015_nepal_earthquake	earthquake	RT USER : NepalEarthquake now +2,000 deaths, aftershocks are ‰ÛÏcontinuous‰Û & ‰ÛÏgetting stronger URL AP Photo URL	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
+591903232751874048	2015_nepal_earthquake	earthquake	RT USER : NepalEarthquake now +2,000 deaths, aftershocks are ‰ÛÏcontinuous‰Û & ‰ÛÏgetting stronger URL AP Photo URL	injured_or_dead_people	injured_or_dead_people	affected_individual
 451189091359408129	2014_chile_earthquake	earthquake	USER BUUUUT NIAAAALLLL :(((( I love you :(	not_humanitarian	not_humanitarian	not_humanitarian
 592331404970721280	2015_nepal_earthquake	earthquake	God, give strength to Nepal.	not_humanitarian	not_humanitarian	not_humanitarian
-591903323109851136	2015_nepal_earthquake	earthquake	RT BJPRajnathSingh: NDRF has rescued 11 individuals, recovered 67 dead bodies and evacuated more than 1000 people in Nepal. ThankYouPM BJP	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
+591903323109851136	2015_nepal_earthquake	earthquake	RT BJPRajnathSingh: NDRF has rescued 11 individuals, recovered 67 dead bodies and evacuated more than 1000 people in Nepal. ThankYouPM BJP	injured_or_dead_people	injured_or_dead_people	affected_individual
 592876568420208642	2015_nepal_earthquake	earthquake	We can not do great things. Only little things with great love. MotherTeresa. Lots & lots of prayers. NepalEarthquake BaltimoreRiots	not_humanitarian	not_humanitarian	not_humanitarian
 592733360142852098	2015_nepal_earthquake	earthquake	RT USER : Scroll down on my facebook wall.I prophecied the nepal earthquake long ago. And what did u avoided!	not_humanitarian	not_humanitarian	not_humanitarian
 382823358226006016	2013_pakistan_earthquake	earthquake	RT USER : Two earthquakes in one week RT USER New quake strikes hard-hit Pakistan URL Balochistan	caution_and_advice	injured_or_dead_people	caution_and_advice
@@ -1278,7 +1278,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592982245196959744	2015_nepal_earthquake	earthquake	Dabbawalas offer prayers for Nepal earthquake victims URL ��_ AfternoonVoice	response_efforts	response_efforts	sympathy_and_support
 451187811128209409	2014_chile_earthquake	earthquake	RT USER : UPDATE: Tsunami warning cancelled for Chile and Peru URL	caution_and_advice	caution_and_advice	caution_and_advice
 382816788473729024	2013_pakistan_earthquake	earthquake	RT USER : Hmmm... | USER : Quake survivors desperate for food and water, Kamal Hyder reports URL Pakistan Bâ€¦	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-591902767570132992	2015_nepal_earthquake	earthquake	USER really hope the operation to rescue the kid be successful. PRAYERS NepalEarthquake	sympathy_and_support	sympathy_and_support	sympathy_and_support
+591902767570132992	2015_nepal_earthquake	earthquake	USER really hope the operation to rescue the kid be successful. PRAYERS NepalEarthquake	sympathy_and_support	sympathy_and_support	not_humanitarian
 592736733860618241	2015_nepal_earthquake	earthquake	VultureEvangelists Most disgusting creature on earth. MSM wont show this side of 'em SoulVultures NepalEarthquake URL	not_humanitarian	not_humanitarian	not_humanitarian
 390048633623568384	2013_bohol_earthquake	earthquake	guys if you read this please PrayForVisayas it's going to be a long night aftershocks keep on coming, and getting stronger :((	sympathy_and_support	not_humanitarian	not_humanitarian
 591903254381887491	2015_nepal_earthquake	earthquake	RT USER : . USER calls 2nd collection to support USER response to NepalEarthquake URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
@@ -1339,7 +1339,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 592753325545824257	2015_nepal_earthquake	earthquake	Much needed help. Crisis unites humanity NepalEarthquake Nepal NepalQuakeRelief URL	not_humanitarian	response_efforts	donation_and_volunteering
 591902751572918272	2015_nepal_earthquake	earthquake	RT USER : PrayForNepal A 7.9 earthquake has killed more than 480 people. Pls join me in praying for Nepal URL	injured_or_dead_people	sympathy_and_support	injured_or_dead_people
 451187767507447808	2014_chile_earthquake	earthquake	Was there an Earthquake in Chile or something recently?	not_humanitarian	sympathy_and_support	requests_or_needs
-913002540119330816	mexico_earthquake	earthquake	Insured loss estimates for Mexico earthquake up to $2bn - URL URL	infrastructure_and_utilities_damage	donation_and_volunteering	missing_and_found_people
+913002540119330816	mexico_earthquake	earthquake	Insured loss estimates for Mexico earthquake up to $2bn - URL URL	infrastructure_and_utilities_damage	donation_and_volunteering	injured_or_dead_people
 592069637174497280	2015_nepal_earthquake	earthquake	The Daily Word: As the lost of so many lives in Nepal are counted and the struggle to go on, let us Pray that Love and Peace may reign..	sympathy_and_support	sympathy_and_support	sympathy_and_support
 592631176302473216	2015_nepal_earthquake	earthquake	So much respect for this community. URL	not_humanitarian	not_humanitarian	not_humanitarian
 592692274703765505	2015_nepal_earthquake	earthquake	YPG 224 day of resistance to clean up Kobane area from cavemen of IslamicState ' ' solidarity w NepalEarthquake URL	not_humanitarian	infrastructure_and_utilities_damage	donation_and_volunteering
@@ -1359,7 +1359,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 451188568493285378	2014_chile_earthquake	earthquake	Let us PrayForChile. May Allah give them strength to face this calamity and return back to the straight path. URL	sympathy_and_support	sympathy_and_support	sympathy_and_support
 592974704048144384	2015_nepal_earthquake	earthquake	Help required Goldhunga-7. People are living in open sky without tent &any help.Please call 9841325580 USER NepalEarthquake help	requests_or_needs	requests_or_needs	requests_or_needs
 451188353585532929	2014_chile_earthquake	earthquake	Omg I'm absolutely in love of USER LIJíïOFUJíïPDKíïLE <3!!!!	not_humanitarian	not_humanitarian	not_humanitarian
-591903020897542145	2015_nepal_earthquake	earthquake	RT USER : Google has created person finder page for NepalQuake URL Retweet please or share USER http‰Û_	donation_and_volunteering	missing_and_found_people	affected_individual
+591903020897542145	2015_nepal_earthquake	earthquake	RT USER : Google has created person finder page for NepalQuake URL Retweet please or share USER http‰Û_	donation_and_volunteering	missing_and_found_people	donation_and_volunteering
 592668499895590912	2015_nepal_earthquake	earthquake	whose voice then shook the earth: but now he has promised saying, yet once Moore will I shake not the earth only,??? URL	not_humanitarian	not_humanitarian	not_humanitarian
 451188061687513088	2014_chile_earthquake	earthquake	RT USER : My prayers are with those affected in the Chile Earthquake. ChileEarthquake PrayForChile	sympathy_and_support	sympathy_and_support	sympathy_and_support
 913060308855468033	mexico_earthquake	earthquake	USER hey Nyle, this woman is helping people after Mexicoâ€™s earthquake, the sign says â€œIâ€™m deafâ€. URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
@@ -1377,7 +1377,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 451187641808330752	2014_chile_earthquake	earthquake	RT USER : PrayforSouthKorea PrayforChile PrayforIndonesia PrayforNepal PrayforUkraine PrayforFlores PrayforTheWorld :( so manäó_	sympathy_and_support	sympathy_and_support	sympathy_and_support
 451190136265388032	2014_chile_earthquake	earthquake	USER :') Thanks guys <3 Chile loves you <3	not_humanitarian	not_humanitarian	not_humanitarian
 591920648588505088	2015_nepal_earthquake	earthquake	The Nepal footage is terrifying.	sympathy_and_support	not_humanitarian	not_humanitarian
-591902710951190528	2015_nepal_earthquake	earthquake	‰Û÷Maldivian‰Ûª to travel to Nepal to evacuate Maldivians from the country URL	displaced_and_evacuations	donation_and_volunteering	caution_and_advice
+591902710951190528	2015_nepal_earthquake	earthquake	‰Û÷Maldivian‰Ûª to travel to Nepal to evacuate Maldivians from the country URL	displaced_and_evacuations	donation_and_volunteering	donation_and_volunteering
 451187861685948416	2014_chile_earthquake	earthquake	People in high places waiting for the tsunami after 8.2 earthquake. PrayForChile ChileEarthquake URL	sympathy_and_support	sympathy_and_support	requests_or_needs
 591902841003855872	2015_nepal_earthquake	earthquake	Your response to our appeal has been incredible: watch the latest on NepalQuake Appeal from USER URL	donation_and_volunteering	response_efforts	donation_and_volunteering
 451189233496375296	2014_chile_earthquake	earthquake	FIVE DEAD AFTER 8.2 EARTHQUAKE SHAKES CHILE COAST; TSUNAMI WARNINGS LIFTED URL	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
@@ -1428,7 +1428,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 382833167163740160	2013_pakistan_earthquake	earthquake	RT USER : 139 Dead In Mexico Storm URL Karachi Lahore Islamabad Pakistan	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
 592643085122711552	2015_nepal_earthquake	earthquake	Thank you and best wishes. URL	response_efforts	not_humanitarian	not_humanitarian
 503644650767261696	2014_california_earthquake	earthquake	USER thank god u left California, they had an earthquake	sympathy_and_support	not_humanitarian	not_humanitarian
-593169884428824576	2015_nepal_earthquake	earthquake	People destroied by Earth Nepal and people distroied by People BaltimoreRiots	not_humanitarian	not_humanitarian	injured_or_dead_people
+593169884428824576	2015_nepal_earthquake	earthquake	People destroied by Earth Nepal and people distroied by People BaltimoreRiots	not_humanitarian	not_humanitarian	requests_or_needs
 390238971134898176	2013_bohol_earthquake	earthquake	Can't sleep knowing my family is camping outside ..so scared of aftershocks :'( Bohol	sympathy_and_support	sympathy_and_support	requests_or_needs
 390015938998718464	2013_bohol_earthquake	earthquake	Godbless people of Cebu and Bohol prayforcebu prayforbohol	sympathy_and_support	sympathy_and_support	requests_or_needs
 591903098895003651	2015_nepal_earthquake	earthquake	RT USER : It's so sad how we have kids here from Nepal, school is about to end in a couple days and they have no family nor house to g‰Û_	sympathy_and_support	sympathy_and_support	sympathy_and_support
@@ -1525,7 +1525,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 593241937047465984	2015_nepal_earthquake	earthquake	If you want to help Nepal, don't give the funds directly to the government.	not_humanitarian	requests_or_needs	requests_or_needs
 593024541925978114	2015_nepal_earthquake	earthquake	Right lol URL	not_humanitarian	not_humanitarian	not_humanitarian
 503892181262684161	2014_california_earthquake	earthquake	My first earthquake was a 6.1. San Francisco you were my first.	not_humanitarian	not_humanitarian	not_humanitarian
-910580943630483456	mexico_earthquake	earthquake	Donations open for earthquake victims in Mexico URL Kuwait q8 URL	donation_and_volunteering	donation_and_volunteering	missing_and_found_people
+910580943630483456	mexico_earthquake	earthquake	Donations open for earthquake victims in Mexico URL Kuwait q8 URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 592820177525469185	2015_nepal_earthquake	earthquake	Latest post from AidSpeak's J turns from realistic cynicism of media to exaggerated ignorance. URL Nepal Media Aid	response_efforts	response_efforts	donation_and_volunteering
 592741608388501504	2015_nepal_earthquake	earthquake	USER r u really donating for NepalEarthquake? Nah jst askng cz derez no tweet abt it. But if ur dng thn we're w8ing fr u..its awsm	not_humanitarian	not_humanitarian	not_humanitarian
 910800392954548224	mexico_earthquake	earthquake	Trapped on the tarmac, watching Mexico City shake URL | á½¨0 by URL URL	not_humanitarian	donation_and_volunteering	injured_or_dead_people
@@ -1614,7 +1614,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 217952087458328577	2012_colorado_wildfires	fire	RT USER : Praying for divine intervention and protection for all those affected by the fires in Colorado Springs. waldocanyonfire	sympathy_and_support	sympathy_and_support	sympathy_and_support
 919888686707175424	california_wildfires	fire	Fire in California continues to blaze but firefighters gainÂ ground URL URL	donation_and_volunteering	donation_and_volunteering	infrastructure_and_utilities_damage
 218040608227463169	2012_colorado_wildfires	fire	LA Times - Parts of Air Force Academy evacuated as Colorado fire rages	affected_individual	affected_individual	affected_individual
-392555908854595584	2013_australia_bushfire	fire	RT USER : pls pass message on all social media nswfires URL	sympathy_and_support	caution_and_advice	sympathy_and_support
+392555908854595584	2013_australia_bushfire	fire	RT USER : pls pass message on all social media nswfires URL	sympathy_and_support	caution_and_advice	affected_individual
 218093422916026369	2012_colorado_wildfires	fire	Poor visibility in coloradosprings due 2 smoke being blown across city. waldocanyonfire waldofire	caution_and_advice	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 295618987709054977	2013_brazil_nightclub-fire	fire	RemaDigitalMedia Timeline: Fire in nightclub kills 232 in Brazil: (Reuters) - A fire killed at least... URL YahooNews	affected_individual	affected_individual	injured_or_dead_people
 920500722063601666	california_wildfires	fire	Vegetation Fire Burns At Least 30 Acres InÂ Dublin: URL URL URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	not_humanitarian
@@ -1672,7 +1672,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 217744897220943873	2012_colorado_wildfires	fire	Watched the smoke plumes grow and spread driving home from work this afternoon. Scary stuff. FlagstaffFire	affected_individual	not_humanitarian	not_humanitarian
 391727521214898176	2013_australia_bushfire	fire	nswfires evacuation_orders / mandatory_evacuation Once issue YOU MUST leave immediately Contact family / friends re, your destination	caution_and_advice	caution_and_advice	not_humanitarian
 919562980370604032	california_wildfires	fire	RT USER : Woman at Las Vegas shooting loses California home to wildfires URL URL	infrastructure_and_utilities_damage	affected_individual	affected_individual
-217815319593500673	2012_colorado_wildfires	fire	RT USER : waldocanyonfire MT USER : Terrifying fire in Colorado Springs, CO. Evacuations underway URL	affected_individual	affected_individual	displaced_and_evacuations
+217815319593500673	2012_colorado_wildfires	fire	RT USER : waldocanyonfire MT USER : Terrifying fire in Colorado Springs, CO. Evacuations underway URL	affected_individual	affected_individual	affected_individual
 295835480895913984	2013_brazil_nightclub-fire	fire	Brazil Nightclub Fire Kills At Least 232 People (VIDEOS, PHOTOS): URL	affected_individual	affected_individual	affected_individual
 217989878158340097	2012_colorado_wildfires	fire	Tens of thousands flee homes as Colorado wildfire doubles in size overnight - Fox News: BBC NewsTens of thousand... URL	affected_individual	affected_individual	affected_individual
 918239233885855745	california_wildfires	fire	California wildfires: 21 dead as winds threaten to worsen out-of-control blaze URL URL	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
@@ -1995,7 +1995,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 350385171431845888	2013_alberta_floods	flood	I'm at West Edmonton Mall - USER (Edmonton, AB) w/ 4 others URL	not_humanitarian	not_humanitarian	not_humanitarian
 349527874446954497	2013_alberta_floods	flood	Tuesday morning update: 4st store still closed due to no power in our community. Closest Bronze Baxx is our Sirocco drive location!	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 296737359158992896	2013_queensland_floods	flood	Kinda regretting eating half a McDonald's family box to myself fatty beachedwhale	not_humanitarian	not_humanitarian	not_humanitarian
-508342825235529729	2014_pakistan_floods	flood	NEWS: Hundreds of thousands still stranded by killer Kashmir floods URL	injured_or_dead_people	missing_and_found_people	affected_individual
+508342825235529729	2014_pakistan_floods	flood	NEWS: Hundreds of thousands still stranded by killer Kashmir floods URL	injured_or_dead_people	missing_and_found_people	injured_or_dead_people
 297150047974481921	2013_queensland_floods	flood	Buzzy got a cut and looks like a hot bitch	not_humanitarian	not_humanitarian	not_humanitarian
 351537856155615236	2013_alberta_floods	flood	Hey USER , I loved Rushan Rafikov in the Lion king. Get it?	not_humanitarian	not_humanitarian	not_humanitarian
 296927301231329280	2013_queensland_floods	flood	USER USER it's HOT!I felt like I was a lollypop melting in the sun today,damn humidity!Yep Organise a night with all the girls	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2158,7 +2158,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 580238469844324352	2014-2015_worldwide_landslides	flood	I've never been so destroyed.	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 296588270421291008	2013_queensland_floods	flood	Remember when I released this video? URL	not_humanitarian	not_humanitarian	not_humanitarian
 349152063663534081	2013_alberta_floods	flood	USER what type of PPE do we need to volunteer for inglewood?	not_humanitarian	requests_or_needs	requests_or_needs
-295288770138370049	2013_queensland_floods	flood	A shout-out to our emergency services for their amazing efforts so far. QLD loves you! USER USER USER USER bigwet qld	donation_and_volunteering	sympathy_and_support	sympathy_and_support
+295288770138370049	2013_queensland_floods	flood	A shout-out to our emergency services for their amazing efforts so far. QLD loves you! USER USER USER USER bigwet qld	donation_and_volunteering	sympathy_and_support	not_humanitarian
 295343675943288832	2013_queensland_floods	flood	USER yes forreal. I've accessed it in Samoa, Australia &in NZ &it's the same in Utah too. Lol.	not_humanitarian	not_humanitarian	not_humanitarian
 297235263812427777	2013_queensland_floods	flood	USER well I'm here till 9	not_humanitarian	not_humanitarian	not_humanitarian
 295695273722802176	2013_queensland_floods	flood	RT USER : USER USER CoatesHire will also be open in Caloundra and Maroochydore this morning bigwet Please retweet	caution_and_advice	caution_and_advice	sympathy_and_support
@@ -2230,7 +2230,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 350723246339014656	2013_alberta_floods	flood	First customers at the T-Bar canada alberta skicastle castlemtn tbar pub summer canadaday URL	not_humanitarian	not_humanitarian	not_humanitarian
 349001032010960896	2013_alberta_floods	flood	USER : am i the only one who tries to learn lyrics to rap songs so i can surprise people during car rides USER	not_humanitarian	not_humanitarian	not_humanitarian
 350037831160299520	2013_alberta_floods	flood	USER USER no kid will understand the joyous feeling of handwriting z's..	not_humanitarian	not_humanitarian	not_humanitarian
-508345046018428928	2014_pakistan_floods	flood	Natural Sikular Comment RT USER : Ghulam Nabi Azad says it is natural for flood-affected people to get angry KashmirFloods Modi	sympathy_and_support	donation_and_volunteering	not_humanitarian
+508345046018428928	2014_pakistan_floods	flood	Natural Sikular Comment RT USER : Ghulam Nabi Azad says it is natural for flood-affected people to get angry KashmirFloods Modi	sympathy_and_support	donation_and_volunteering	donation_and_volunteering
 350812139847557121	2013_alberta_floods	flood	Burping my nephew and he is head butting me wtf	not_humanitarian	not_humanitarian	not_humanitarian
 295412492027457536	2013_queensland_floods	flood	USER The KKK scenes were hilarious.	not_humanitarian	not_humanitarian	not_humanitarian
 295848425046548481	2013_queensland_floods	flood	USER ah ok. Well if he blocks Roar fans who used to slam GCU on twitter he's going to be a busy man!	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2308,13 +2308,13 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 295713628781420544	2013_queensland_floods	flood	USER What on earth are you doing there?!	not_humanitarian	not_humanitarian	not_humanitarian
 350848457671589890	2013_alberta_floods	flood	anions stared in stupefaction at the ornate pyramid. They'll never even figure out how to turn it on. That much was t	not_humanitarian	not_humanitarian	not_humanitarian
 296135602653519872	2013_queensland_floods	flood	Palm Beach Currumbin year 8 or 9 school uniform- PBC size 90 $25.00 Palm Beach URL	not_humanitarian	not_humanitarian	not_humanitarian
-349647428145790978	2013_alberta_floods	flood	Calgary floods trigger an oil spill and a mass evacuation: URL	affected_individual	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
+349647428145790978	2013_alberta_floods	flood	Calgary floods trigger an oil spill and a mass evacuation: URL	affected_individual	infrastructure_and_utilities_damage	not_humanitarian
 296582601219661826	2013_queensland_floods	flood	USER nice work. Say g'day to Team Adam for me :)	not_humanitarian	not_humanitarian	not_humanitarian
 872455356047278081	srilanka_floods	flood	At times he felt that he had almost rather not be in love with her, for it brought him no peace. Antonio Mora URL	not_humanitarian	not_humanitarian	not_humanitarian
 348891320867254272	2013_alberta_floods	flood	USER we can foster dogs. Sent e-mail, let us know.	not_humanitarian	not_humanitarian	not_humanitarian
 295995889917497344	2013_queensland_floods	flood	USER I never cease to be amazed at the people who can't handle these rides & yet they're always the first in line to get on!	not_humanitarian	not_humanitarian	not_humanitarian
 295519510130225152	2013_queensland_floods	flood	Guys i think im falling sick ;___; watery eyes, sneezing fits, runny nose... yeah it doesn't look good ><	not_humanitarian	not_humanitarian	not_humanitarian
-369659220104208384	2013_manila_floods	flood	Tweet and update USER and others if you're SAFENOW. Please.	donation_and_volunteering	caution_and_advice	not_humanitarian
+369659220104208384	2013_manila_floods	flood	Tweet and update USER and others if you're SAFENOW. Please.	donation_and_volunteering	caution_and_advice	response_efforts
 349050941154144256	2013_alberta_floods	flood	7 days till im on a beach	not_humanitarian	not_humanitarian	not_humanitarian
 508343991222673408	2014_pakistan_floods	flood	Madrid Toll from Pakistan, India floods rises over 230: i24news PublishedSept... URL monaco	displaced_and_evacuations	injured_or_dead_people	injured_or_dead_people
 296965210923741184	2013_queensland_floods	flood	USER USER USER and yes. Fitzy SHOULD of been given a better chance. Wish him all the best, we will see him in gosford	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2328,7 +2328,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 508342908802437120	2014_pakistan_floods	flood	RT USER : Thoughts are with all the families affected by the floods in Kashmir and wishing the rescue teams all the best in their eâ€¦	sympathy_and_support	sympathy_and_support	sympathy_and_support
 347882680051965953	2013_alberta_floods	flood	CONGRATS!! U should do some following to celebrate. Soooo excited for ya! Love u. Xo USER	not_humanitarian	not_humanitarian	not_humanitarian
 508341038139047936	2014_pakistan_floods	flood	RT USER : Jammu and Kashmir highway, which got ravaged due to floods, to be restored after 4-5 days: Army | KashmirFloods	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
-232808601624924161	2012_philipinnes_floods	flood	RescuePH TUA and TUA hs pls open your doors.	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
+232808601624924161	2012_philipinnes_floods	flood	RescuePH TUA and TUA hs pls open your doors.	donation_and_volunteering	donation_and_volunteering	not_humanitarian
 508338501864423424	2014_pakistan_floods	flood	Army Rescues Pakistani Golf Team, Nepal Ambassador From Srinagar Floods: The Army today said that it has rescu... URL	missing_and_found_people	displaced_and_evacuations	donation_and_volunteering
 296947224359878656	2013_queensland_floods	flood	USER good old' Australian post, arrived at the perfect time too, best birthday ever haha. can't wait to buy more things from you, x	not_humanitarian	not_humanitarian	not_humanitarian
 295523439752654848	2013_queensland_floods	flood	USER Bogans are on other side of water.	not_humanitarian	requests_or_needs	requests_or_needs
@@ -2466,7 +2466,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 295479883608514561	2013_queensland_floods	flood	RT USER : QLD FLOODS: a cable washout in Kingaroy has impacted a significant number of landline, broadband and mobile services i ...	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 348180303736614916	2013_alberta_floods	flood	You're all I think about!!	not_humanitarian	not_humanitarian	not_humanitarian
 351754830865383425	2013_alberta_floods	flood	You won't have to do it, said Anakin, holding the data crystal tight. We'll save your loved ones and you, Bant'ena. M	not_humanitarian	not_humanitarian	not_humanitarian
-369691285541507072	2013_manila_floods	flood	RT USER : On the way to Arianna Tiangco's house! :) MaringPH	not_humanitarian	caution_and_advice	caution_and_advice
+369691285541507072	2013_manila_floods	flood	RT USER : On the way to Arianna Tiangco's house! :) MaringPH	not_humanitarian	caution_and_advice	donation_and_volunteering
 295522356808544258	2013_queensland_floods	flood	Me and USER are currently freaking the fuck out as there is a lizard running around our room! howwegoingtosleep	not_humanitarian	not_humanitarian	not_humanitarian
 351385568753614848	2013_alberta_floods	flood	As the New Republic fleet harried the scattered Diversity Alliance warships, Jaina watched from the cockpit of the Rock	not_humanitarian	not_humanitarian	not_humanitarian
 512451518516445185	2014-2015_worldwide_landslides	flood	RT USER : Avalanche vets report Thur at Pepsi Center for medicals & physical tests. On ice Fri & Sat at Family Sports 9:30-2, free to pub��_	not_humanitarian	not_humanitarian	donation_and_volunteering
@@ -2655,7 +2655,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 573832989962010624	2014-2015_worldwide_landslides	flood	Le T �_�0	not_humanitarian	not_humanitarian	not_humanitarian
 349345274671546369	2013_alberta_floods	flood	RT USER : A very lovely, and surprising hopeful video. For Our Tomorrow - Calgary Flood 2013: URL yyc abflood	sympathy_and_support	sympathy_and_support	sympathy_and_support
 379743895581511680	2013_colorado_floods	flood	Chase to Donate $75,000 to Help after Colorado Floods URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-508339949373259776	2014_pakistan_floods	flood	^~^ Kashmir floods: Over 2,000 Uttar Pradesh residents still missing |	missing_and_found_people	missing_and_found_people	missing_and_found_people
+508339949373259776	2014_pakistan_floods	flood	^~^ Kashmir floods: Over 2,000 Uttar Pradesh residents still missing |	missing_and_found_people	missing_and_found_people	affected_individual
 573857735508258816	2014-2015_worldwide_landslides	flood	Happines isn't found In people , Places or Things , it's found From Within...��� @ at work URL	not_humanitarian	affected_individual	affected_individual
 297280261408821248	2013_queensland_floods	flood	USER gold coast? Aw lucky	not_humanitarian	not_humanitarian	not_humanitarian
 297318697293455360	2013_queensland_floods	flood	USER oh mannnn not sure if I would be feelin the love!	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2732,7 +2732,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 574841105331585024	2014-2015_worldwide_landslides	flood	USER USER nah bitch i kno that i punked you at the parade �_�D�_�D how you let a bitch punk you	not_humanitarian	not_humanitarian	not_humanitarian
 351161254154473475	2013_alberta_floods	flood	Big sky country! @ North Glenmore Park URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
 350413547676770306	2013_alberta_floods	flood	I think a nap is in order....	not_humanitarian	not_humanitarian	not_humanitarian
-508342372095504385	2014_pakistan_floods	flood	Monsoon floods kill nearly 300 in India, Pakistan: SRINAGAR, India (AP) â€” Landslides and flas... URL news headlines	injured_or_dead_people	injured_or_dead_people	infrastructure_and_utilities_damage
+508342372095504385	2014_pakistan_floods	flood	Monsoon floods kill nearly 300 in India, Pakistan: SRINAGAR, India (AP) â€” Landslides and flas... URL news headlines	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
 498371427871891457	2014-2015_worldwide_landslides	flood	Just played: Landslide - Dixie Chicks - Home(Columbia)	not_humanitarian	not_humanitarian	not_humanitarian
 476567354977951746	2014-2015_worldwide_landslides	flood	Top Mp3 Hard rock - 4: Witnessing the Fall: Witnessing the Fall Svart Crown | Fo... URL Store URL	not_humanitarian	not_humanitarian	not_humanitarian
 349941519110770690	2013_alberta_floods	flood	Totally guna do races and shit	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2901,12 +2901,12 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 580250876192788480	2014-2015_worldwide_landslides	flood	USER As soon as that baby pops out I got ya.	not_humanitarian	not_humanitarian	not_humanitarian
 297178977339068417	2013_queensland_floods	flood	I'm at Gold Coast Mosque (Arundel, QLD) URL	not_humanitarian	not_humanitarian	not_humanitarian
 347916707328831488	2013_alberta_floods	flood	Abflood cochrane hwy22 wow! yyc flood ab URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	not_humanitarian
-347932788290379776	2013_alberta_floods	flood	Stay safe, Alberta. ABflood	sympathy_and_support	sympathy_and_support	sympathy_and_support
+347932788290379776	2013_alberta_floods	flood	Stay safe, Alberta. ABflood	sympathy_and_support	sympathy_and_support	not_humanitarian
 296887157254135808	2013_queensland_floods	flood	Person at school: ew The Used are shit Me: LIAR LIAR BURN IN HELL	not_humanitarian	not_humanitarian	not_humanitarian
 574831043447943169	2014-2015_worldwide_landslides	flood	if you don't ask you'll never know	not_humanitarian	not_humanitarian	not_humanitarian
 296208682990055424	2013_queensland_floods	flood	USER I took that whole sentence to the gutter.	not_humanitarian	not_humanitarian	not_humanitarian
 348735062499536896	2013_alberta_floods	flood	Too write my diplomas or not ... Hmmm yycflood school stress	not_humanitarian	not_humanitarian	not_humanitarian
-348518732554973185	2013_alberta_floods	flood	USER USER USER Thanks Ann. Response has been incredible. yycflood	sympathy_and_support	response_efforts	not_humanitarian
+348518732554973185	2013_alberta_floods	flood	USER USER USER Thanks Ann. Response has been incredible. yycflood	sympathy_and_support	response_efforts	response_efforts
 232963962835181568	2012_philipinnes_floods	flood	Good Morning, Philippines! Godbless! rescuePH	not_humanitarian	affected_individual	not_humanitarian
 295510628603400192	2013_queensland_floods	flood	USER USER USER indeed. It's pretty crazy up here!	not_humanitarian	not_humanitarian	not_humanitarian
 351709041094959104	2013_alberta_floods	flood	USER USER Lol you were there. You kept bickering with me and we got lost and lost an hour of travel.	not_humanitarian	not_humanitarian	not_humanitarian
@@ -2957,7 +2957,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 580249161120927744	2014-2015_worldwide_landslides	flood	USER : spot the difference URL one on the lefts better	not_humanitarian	not_humanitarian	not_humanitarian
 349401373537861633	2013_alberta_floods	flood	Its not a big deal. YOU ARE USING MY NAME. thats why.. dear :)	not_humanitarian	not_humanitarian	not_humanitarian
 508335995323170819	2014_pakistan_floods	flood	Kashmir Floods: In Tit-For-Tat Gesture, Pakistan Offers to Help India: The prime ministers of India and Pakist... URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-233039510672404480	2012_philipinnes_floods	flood	RT USER : RescuePH Know someone who was rescued since yesterday? Report back now: Tweet name/s with safenow hashtag so we could t ...	caution_and_advice	affected_individual	not_humanitarian
+233039510672404480	2012_philipinnes_floods	flood	RT USER : RescuePH Know someone who was rescued since yesterday? Report back now: Tweet name/s with safenow hashtag so we could t ...	caution_and_advice	affected_individual	donation_and_volunteering
 350792449691631617	2013_alberta_floods	flood	USER thats just awesome. Way to go....	not_humanitarian	not_humanitarian	not_humanitarian
 349285765437603841	2013_alberta_floods	flood	ke plow blades as they crowded into the cavern from a dozen different directions.	not_humanitarian	not_humanitarian	requests_or_needs
 575956881027530752	2014-2015_worldwide_landslides	flood	He luh my big ego	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3080,7 +3080,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 349156372241342464	2013_alberta_floods	flood	Let's go to New York in the fall so we can see central park :-)	not_humanitarian	not_humanitarian	not_humanitarian
 295419309935706113	2013_queensland_floods	flood	Opening up to people is so hard for me but I'm glad I just did!! I feel so much better thankyou	not_humanitarian	not_humanitarian	not_humanitarian
 295328519528009729	2013_queensland_floods	flood	USER he does play for Brighton...	not_humanitarian	not_humanitarian	not_humanitarian
-508343226777210880	2014_pakistan_floods	flood	RT USER : Shahbaz Sharif beg all ppl to donate fr Punjab flood effectees,bt he wont pay single penny frm his billion dollars investmâ€¦	donation_and_volunteering	donation_and_volunteering	sympathy_and_support
+508343226777210880	2014_pakistan_floods	flood	RT USER : Shahbaz Sharif beg all ppl to donate fr Punjab flood effectees,bt he wont pay single penny frm his billion dollars investmâ€¦	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 296761033232633857	2013_queensland_floods	flood	TAKE ME AWAAAY (@ Aviation High) URL	not_humanitarian	not_humanitarian	not_humanitarian
 295347510443114496	2013_queensland_floods	flood	USER In other words, how do you encourage & foster +ve attitudes to learning? Kids think bright = daggy education	not_humanitarian	not_humanitarian	not_humanitarian
 350144836373983232	2013_alberta_floods	flood	Oh we'll, here's something cute URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3219,7 +3219,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 573790793409916928	2014-2015_worldwide_landslides	flood	Acid Rapper �_�5	not_humanitarian	not_humanitarian	not_humanitarian
 349366015844548608	2013_alberta_floods	flood	I can't study in this heat offtothelake	not_humanitarian	not_humanitarian	not_humanitarian
 295474697712328704	2013_queensland_floods	flood	USER Only really wanted to watch the tennis. Oh we'll, nothing really to complain about all things considered.	not_humanitarian	not_humanitarian	not_humanitarian
-296062078182113280	2013_queensland_floods	flood	RT USER : New England Highway from Warwick - Toowoomba not yet open. Road still needs inspection. bigwet	caution_and_advice	infrastructure_and_utilities_damage	caution_and_advice
+296062078182113280	2013_queensland_floods	flood	RT USER : New England Highway from Warwick - Toowoomba not yet open. Road still needs inspection. bigwet	caution_and_advice	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 296888701823365120	2013_queensland_floods	flood	So my dad got a virus on one of our computers, my parents seem to repulse technology :/	not_humanitarian	not_humanitarian	not_humanitarian
 350828552570142722	2013_alberta_floods	flood	It's hard to pre drink and get ready at the same time lol	not_humanitarian	not_humanitarian	not_humanitarian
 573811492883202049	2014-2015_worldwide_landslides	flood	gt en retard ce matin	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3413,7 +3413,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 349951026301906944	2013_alberta_floods	flood	handed him the long wooden pole to which the new standard was attached. Luke raised the standard high. I claim... Th	not_humanitarian	not_humanitarian	not_humanitarian
 296852858601607168	2013_queensland_floods	flood	I think ASAP should be changed to ASA(WDW)P because that's the way it seems these days.	not_humanitarian	not_humanitarian	not_humanitarian
 297164317642608641	2013_queensland_floods	flood	USER the original of course! Better accessories!	not_humanitarian	not_humanitarian	not_humanitarian
-351267480704000001	2013_alberta_floods	flood	I have news, Edell said, straightening. I've been to the new continent, and returned in triumph.	not_humanitarian	not_humanitarian	not_humanitarian
+351267480704000001	2013_alberta_floods	flood	I have news, Edell said, straightening. I've been to the new continent, and returned in triumph.	not_humanitarian	not_humanitarian	requests_or_needs
 348606620013568000	2013_alberta_floods	flood	RT USER : Plz RT Public Schools (CBE & Catholic) will be CLOSED on Monday. yyc yycflood	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	caution_and_advice
 295447193190535168	2013_queensland_floods	flood	Latest casualty of the bigwet is Channel 7 News' deplorable Flashback segment. Life is not fair. Nothing is fair.	not_humanitarian	not_humanitarian	not_humanitarian
 350428465696223232	2013_alberta_floods	flood	people who like cats are more attractive	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3431,7 +3431,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 350836716799655936	2013_alberta_floods	flood	I READ THE RULES BEFORE I BROKE THEM	not_humanitarian	not_humanitarian	not_humanitarian
 351077295336853505	2013_alberta_floods	flood	You're a smuggler, Han. It's what you do.	not_humanitarian	not_humanitarian	not_humanitarian
 580260984377327616	2014-2015_worldwide_landslides	flood	USER yes sir!	not_humanitarian	not_humanitarian	not_humanitarian
-369631860638248961	2013_manila_floods	flood	Good morning! Pray for manila bec. Of the heavy rains that cause floods all over the city bagyongmaring	sympathy_and_support	caution_and_advice	sympathy_and_support
+369631860638248961	2013_manila_floods	flood	Good morning! Pray for manila bec. Of the heavy rains that cause floods all over the city bagyongmaring	sympathy_and_support	caution_and_advice	infrastructure_and_utilities_damage
 350112839773601792	2013_alberta_floods	flood	USER yeah, it features Pola, any ways it's all good! Looking forward to see more videos from Canada and Alberta in particular.	not_humanitarian	not_humanitarian	not_humanitarian
 295814950784475136	2013_queensland_floods	flood	Remember when Harry tweeted Hello Wild Cats and we all believed in the High School Musical theory	not_humanitarian	not_humanitarian	not_humanitarian
 508344298992316416	2014_pakistan_floods	flood	RT USER : J&K floods: Rescue workers save over 70 CRPF personnel who were stranded on a building in Srinagar last night KashmirFloods	missing_and_found_people	missing_and_found_people	affected_individual
@@ -3489,7 +3489,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 488252166235492352	2014-2015_worldwide_landslides	flood	In pictures: Wild horses in Spain URL	not_humanitarian	affected_individual	affected_individual
 575956438759120896	2014-2015_worldwide_landslides	flood	Congratulations USER �_祟� It's the best collection of USER ! Paris Resee��_ URL	not_humanitarian	not_humanitarian	not_humanitarian
 296575365508395011	2013_queensland_floods	flood	Julia Gillard has called election on Yom Kippur, the holiest day in the Jewish calendar and disenfranchised part of the population auspol	not_humanitarian	requests_or_needs	requests_or_needs
-296003919975424001	2013_queensland_floods	flood	BHP coalmines hit by floods: BHP, Qld's biggest coal producer, is set to lose production from its Bowen Basin co... URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
+296003919975424001	2013_queensland_floods	flood	BHP coalmines hit by floods: BHP, Qld's biggest coal producer, is set to lose production from its Bowen Basin co... URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	requests_or_needs
 351349917958148096	2013_alberta_floods	flood	Finally, a look of understanding spread across her fine features. Sannah read out loud the words Peace to all. Then, s	not_humanitarian	not_humanitarian	not_humanitarian
 351461774987493376	2013_alberta_floods	flood	wiped the cylinder clean with a damp cloth. There's a meditation room downstairs with some privacy, but it doesn't see	not_humanitarian	not_humanitarian	not_humanitarian
 350757477932990464	2013_alberta_floods	flood	Can't wait to get loaded every night this weekend with USER Fort Mac better be ready	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3501,7 +3501,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 876386158309236737	srilanka_floods	flood	Aphrodite, born on the waves Antonio Mora photography URL	not_humanitarian	not_humanitarian	not_humanitarian
 349916044082675712	2013_alberta_floods	flood	USER only the best job on the farm since the invention of autosteer. Give the knife head some grease in the morning then zone out	not_humanitarian	not_humanitarian	not_humanitarian
 581287688130547712	2014-2015_worldwide_landslides	flood	USER USER u suck dick go home	not_humanitarian	not_humanitarian	not_humanitarian
-295544836604456960	2013_queensland_floods	flood	RT USER : Severe floods and tornadoes in the Australian state of Queensland have left four people dead and a further two missin ...	affected_individual	affected_individual	injured_or_dead_people
+295544836604456960	2013_queensland_floods	flood	RT USER : Severe floods and tornadoes in the Australian state of Queensland have left four people dead and a further two missin ...	affected_individual	affected_individual	infrastructure_and_utilities_damage
 870161183927660544	srilanka_floods	flood	Data from geoinfo center included in our map URL FloodSL URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 349345285136322560	2013_alberta_floods	flood	Consider supporting the Tar Sands Healing Walk URL Healing Walk - July 5-6, 2013 - Fort McMurray, Alberta USER abflood	not_humanitarian	not_humanitarian	not_humanitarian
 349767786697994241	2013_alberta_floods	flood	Why do u do this to myself?	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3586,7 +3586,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 353915124068782080	2013_canada_lac-megantic-train-crash	human_caused	Canada police say five dead, about 40 missing after oil train blast URL	affected_individual	affected_individual	injured_or_dead_people
 324737758671294464	2013_west_texas	human_caused	Authorities: Fertilizer plant explodes near Waco, Texas - Apr 18 @ 12:14 AM ET URL	infrastructure_and_utilities_damage	affected_individual	infrastructure_and_utilities_damage
 325754228473745410	2013_west_texas	human_caused	Have every intention of continuing what I want to do in the pre-health industry that's why I went to school, but who knew..	not_humanitarian	requests_or_needs	requests_or_needs
-325094378504876032	2013_boston_bombings	human_caused	There has to be some Asian person on the other end of automatic flushing toilets and urinals who just watches people pee and poop all day.	not_humanitarian	not_humanitarian	not_humanitarian
+325094378504876032	2013_boston_bombings	human_caused	There has to be some Asian person on the other end of automatic flushing toilets and urinals who just watches people pee and poop all day.	not_humanitarian	not_humanitarian	requests_or_needs
 406962978194743296	2013_glasgow_helicopter-crash	human_caused	RT USER : Praying for the families of the 8 who lost their loves in Glasgow in the helicopter crash, thoughts are also with the fam…	sympathy_and_support	sympathy_and_support	sympathy_and_support
 324910340431282176	2013_west_texas	human_caused	Disappointments are just God's way of saying: I've got something better in mind for you	not_humanitarian	not_humanitarian	not_humanitarian
 323858932068143104	2013_boston_bombings	human_caused	I'm at Boston Common Tremont & Park (Boston, MA) URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -3831,7 +3831,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 324694565753851904	2013_west_texas	human_caused	RT USER : triage for injured at Reagan st in West Tx due to plt explosion Multiple areas on fire including a school. URL ...	infrastructure_and_utilities_damage	affected_individual	infrastructure_and_utilities_damage
 325761947222044674	2013_west_texas	human_caused	If I Don't Do Nothing Else I'm Ball & Take Care Of Mines !	not_humanitarian	not_humanitarian	not_humanitarian
 396936871944536064	2013_la_airport-shootings	human_caused	Suspect in LAX Shooting Spree Targeted TSA - ABC News URL	affected_individual	affected_individual	not_humanitarian
-396329687720669184	2013_la_airport-shootings	human_caused	RT USER : People are still being shuttled in to a secured location. Nerves are starring to settle. LAXshooting URL	affected_individual	affected_individual	affected_individual
+396329687720669184	2013_la_airport-shootings	human_caused	RT USER : People are still being shuttled in to a secured location. Nerves are starring to settle. LAXshooting URL	affected_individual	affected_individual	donation_and_volunteering
 325074433582710784	2013_boston_bombings	human_caused	Why you gotta be so blinde , open up your eyes	not_humanitarian	not_humanitarian	not_humanitarian
 407666853696512000	2013_glasgow_helicopter-crash	human_caused	RT USER : Clutha Crash Victims Named: Robert Jenkins, 61, Mark O’Prey, 44, both from East Kilbride. 1/2.	affected_individual	affected_individual	affected_individual
 325015629251895296	2013_boston_bombings	human_caused	I'll run the last mile with you. Please read Emily's Boston Marathon story: URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -4417,7 +4417,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 396335949841305601	2013_la_airport-shootings	human_caused	RT USER : LAX UPDATE: LAPD's West Bureau and South Bureau are in tactical alert due to the shooting URL	affected_individual	affected_individual	caution_and_advice
 406819948234035201	2013_glasgow_helicopter-crash	human_caused	8 Dead In Police Helicopter Crash Onto Glasgow Pub URL	affected_individual	affected_individual	injured_or_dead_people
 324539161119956993	2013_west_texas	human_caused	People at Baylor can be just so classy sometimes. I'm in chapel and this guy behind me is already drunk... Oh, Dia.	not_humanitarian	not_humanitarian	not_humanitarian
-396397333468176384	2013_la_airport-shootings	human_caused	RT USER : Almost 4 hrs since the shooting. Still here. 2000+ people. They're handing out waters & snacks. LAXShooting URL	affected_individual	affected_individual	affected_individual
+396397333468176384	2013_la_airport-shootings	human_caused	RT USER : Almost 4 hrs since the shooting. Still here. 2000+ people. They're handing out waters & snacks. LAXShooting URL	affected_individual	affected_individual	not_humanitarian
 326350111133278210	2013_west_texas	human_caused	USER no matter what happens it'll just make y'all stronger & if he wants to do eod then you'll at least know he's doing something that	not_humanitarian	not_humanitarian	not_humanitarian
 407228578271490048	2013_ny_train-crash	human_caused	Four dead and 63 injured in New York passenger train derailment URL via USER	affected_individual	affected_individual	injured_or_dead_people
 396318312759455744	2013_la_airport-shootings	human_caused	RT USER : JUST IN per USER : Police are responding to a major incident at LAX. URL	affected_individual	affected_individual	donation_and_volunteering
@@ -4614,11 +4614,11 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 326478354184286210	2013_west_texas	human_caused	My Twitter Be On That Trip Shit !	not_humanitarian	not_humanitarian	not_humanitarian
 324745094504796160	2013_west_texas	human_caused	I'm about to leave this country! prayfortexas	sympathy_and_support	not_humanitarian	not_humanitarian
 323953646125608960	2013_boston_bombings	human_caused	RT USER : All prayers go to victims and families of the people affected by the tragedy. prayforboston	sympathy_and_support	sympathy_and_support	sympathy_and_support
-396357370122485760	2013_la_airport-shootings	human_caused	RT USER : LAXShooting - USER USER USER and more on the scene. URL	not_humanitarian	affected_individual	not_humanitarian
+396357370122485760	2013_la_airport-shootings	human_caused	RT USER : LAXShooting - USER USER USER and more on the scene. URL	not_humanitarian	affected_individual	donation_and_volunteering
 324374718931148801	2013_west_texas	human_caused	I forgot how attractive this man is. URL	not_humanitarian	not_humanitarian	not_humanitarian
 324692830285082625	2013_west_texas	human_caused	I'm So Emotional Right Now!	not_humanitarian	not_humanitarian	not_humanitarian
 324543695380684800	2013_west_texas	human_caused	Don't Know What I'm Doing Yet !	not_humanitarian	not_humanitarian	not_humanitarian
-353572365571076096	2013_canada_lac-megantic-train-crash	human_caused	RT USER : Major fire after train carrying oil (maybe tar sands) derails in Quebec near Canada-US border URL http…	infrastructure_and_utilities_damage	affected_individual	infrastructure_and_utilities_damage
+353572365571076096	2013_canada_lac-megantic-train-crash	human_caused	RT USER : Major fire after train carrying oil (maybe tar sands) derails in Quebec near Canada-US border URL http…	infrastructure_and_utilities_damage	affected_individual	affected_individual
 324687259343409153	2013_boston_bombings	human_caused	If my mom says one more word to me I'm gonna snap.	not_humanitarian	not_humanitarian	not_humanitarian
 324889624432488449	2013_boston_bombings	human_caused	I had a dream about oomf lol that shit was crazy	not_humanitarian	not_humanitarian	not_humanitarian
 324338250099589120	2013_boston_bombings	human_caused	USER haha this woman is messing with my head. Thanks for the support!	not_humanitarian	not_humanitarian	not_humanitarian
@@ -4704,7 +4704,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 324708455191572481	2013_west_texas	human_caused	USER : I'm scared of all bugs. Lol why?	not_humanitarian	not_humanitarian	not_humanitarian
 324744125616365568	2013_west_texas	human_caused	Waco, Texas explosion too??? Jesus is coming sooner than we think!	sympathy_and_support	sympathy_and_support	not_humanitarian
 325046298619301889	2013_boston_bombings	human_caused	I am screwed!!! Two exams coming next week! I only have 3 days left!! :/	not_humanitarian	not_humanitarian	not_humanitarian
-396401628452225024	2013_la_airport-shootings	human_caused	Timeline For LAX Shooting - 'Multiple victims' hit; gunman had rifle. URL	affected_individual	affected_individual	donation_and_volunteering
+396401628452225024	2013_la_airport-shootings	human_caused	Timeline For LAX Shooting - 'Multiple victims' hit; gunman had rifle. URL	affected_individual	affected_individual	not_humanitarian
 324355477339250690	2013_west_texas	human_caused	Baby you summertime fine, I let you get on top, I be the underline	not_humanitarian	not_humanitarian	not_humanitarian
 324602629089005568	2013_boston_bombings	human_caused	USER hmmmm.... girl tell me about it O_o !	not_humanitarian	not_humanitarian	not_humanitarian
 325246230898827264	2013_boston_bombings	human_caused	In other news: it's another absolutely beautiful day outside; weather-wise.	not_humanitarian	not_humanitarian	not_humanitarian
@@ -4855,7 +4855,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 262629101339287553	2012_sandy_hurricane	storm	OH, Montclair has yet to officially declare classes cancelled, but Rutgers did... K, Susan Cole.	not_humanitarian	not_humanitarian	not_humanitarian
 262593321950658560	2012_sandy_hurricane	storm	I really really REALLY don't want to do this DTM	not_humanitarian	not_humanitarian	not_humanitarian
 904211370966740992	hurricane_harvey	storm	RT USER : Reports suggest Hurricane Harvey cars could be on its way to Nigeria URL URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
-541784552721494016	2014_philippines_typhoon-hagupit	storm	DSWD Sec. Soliman: C-130 plane carrying relief supplies will arrive by 11:30AM in Eastern Samar RubyPH	response_efforts	donation_and_volunteering	requests_or_needs
+541784552721494016	2014_philippines_typhoon-hagupit	storm	DSWD Sec. Soliman: C-130 plane carrying relief supplies will arrive by 11:30AM in Eastern Samar RubyPH	response_efforts	donation_and_volunteering	donation_and_volunteering
 338869277362909185	2013_oklahoma_tornado	storm	USER awh Sarah! my emotions are already crazy haha I'm so ready to see him!	not_humanitarian	not_humanitarian	not_humanitarian
 921485814793719809	hurricane_maria	storm	me seeing that a bunch of ugly fans are going to virginia to see noel fisher while iâ€™m stuck in fucking puerto rico URL	not_humanitarian	not_humanitarian	not_humanitarian
 262789566753292288	2012_sandy_hurricane	storm	Watching the one you love leave you for someone thats gonna hirt tgem .	not_humanitarian	not_humanitarian	not_humanitarian
@@ -4888,12 +4888,12 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 262905646821806082	2012_sandy_hurricane	storm	Dude playing gears last night went in!!! It was just like old times. USER	not_humanitarian	not_humanitarian	not_humanitarian
 909212573563731973	hurricane_harvey	storm	300 Harvey evacuees relocated to temporary housing from George R. Brown URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 338185457978458112	2013_oklahoma_tornado	storm	USER you will do well on your exams I'm certain also an mood you have is fine cause ill always love you man. Kiss&hugs	not_humanitarian	not_humanitarian	not_humanitarian
-927881351017009152	hurricane_maria	storm	ViequesLove Raises Nearly $900,000 In Hurricane Maria Assistance URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
+927881351017009152	hurricane_maria	storm	ViequesLove Raises Nearly $900,000 In Hurricane Maria Assistance URL URL	donation_and_volunteering	donation_and_volunteering	missing_and_found_people
 191083395	2011_joplin_tornado	storm	USER Tornado near Tuckerman, Ar. reported to be 1/2 mile wide - USER	caution_and_advice	caution_and_advice	caution_and_advice
 923739726506614784	hurricane_maria	storm	Everyone is welcome Zumba For Puerto Rico URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 511430058120978432	2014_mexico_hurricane-odile	storm	Hurricane Odile Damage After landfall & Hits Baja California - Cabo San Lucas Mexico Storms 2014 HD! URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 541826012359581696	2014_philippines_typhoon-hagupit	storm	VIDEO: Powerful typhoon nears Philippines URL	not_humanitarian	not_humanitarian	not_humanitarian
-541179517406945280	2014_philippines_typhoon-hagupit	storm	More than 600,000 flee as typhoon nears Philippines: Haunted by Typhoon Haiyan's massive devastation last year... URL	not_humanitarian	affected_individual	affected_individual
+541179517406945280	2014_philippines_typhoon-hagupit	storm	More than 600,000 flee as typhoon nears Philippines: Haunted by Typhoon Haiyan's massive devastation last year... URL	not_humanitarian	affected_individual	not_humanitarian
 339199335449391104	2013_oklahoma_tornado	storm	S/O to USER for being a stranger, but your pretty & your header is cute!	not_humanitarian	not_humanitarian	not_humanitarian
 575741326827765760	2015_vanuatu_cyclone	storm	'Monster' Cyclone Strikes a Heavy Toll in Vanuatu: More than 100,000 people are likely homeless, schools have ... URL	displaced_and_evacuations	injured_or_dead_people	affected_individual
 541363126575185921	2014_philippines_typhoon-hagupit	storm	Christmas is coming. Yet, there's a typhoon here in Philippines. It's kinda weird!	not_humanitarian	not_humanitarian	not_humanitarian
@@ -4915,7 +4915,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 339485347698331648	2013_oklahoma_tornado	storm	Pictures and memories will have to get me through.	not_humanitarian	not_humanitarian	not_humanitarian
 923149294017875968	hurricane_maria	storm	Hurricane Maria's devastation left children and families homeless, helpless, hopeless. Helpchangeachildsworld URL	affected_individual	infrastructure_and_utilities_damage	requests_or_needs
 337701275909103617	2013_oklahoma_tornado	storm	RT USER : I've always wanted to go tornado hunting who's with me? ????	not_humanitarian	caution_and_advice	not_humanitarian
-575743649176231936	2015_vanuatu_cyclone	storm	RT USER : USER USER We did have Pam Ayres on recently (we're the gift that keeps on giving) URL	not_humanitarian	not_humanitarian	donation_and_volunteering
+575743649176231936	2015_vanuatu_cyclone	storm	RT USER : USER USER We did have Pam Ayres on recently (we're the gift that keeps on giving) URL	not_humanitarian	not_humanitarian	not_humanitarian
 541705332356296704	2014_philippines_typhoon-hagupit	storm	Help for the Philippines Sat 16th10:00 am at Harvey Milk	not_humanitarian	donation_and_volunteering	requests_or_needs
 904375552043356160	hurricane_harvey	storm	RT USER : Morning meeting. We continue to tackle the damage Harvey did to signs and signals. URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 276879462367383554	2012_philippines_typhoon-pablo	storm	PHILIPPINE DEATH TOLL FROM TYPHOON BOPHA RISES: 475 CONFIRMED DEAD (DEC 6, 2012) URL	affected_individual	affected_individual	injured_or_dead_people
@@ -4946,7 +4946,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 921426310005690368	hurricane_maria	storm	Donate Filters for Clean Water for PuertoÂ Rico URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 262970751861260288	2012_sandy_hurricane	storm	RT USER : Droplets of water is literally falling from the sky. FrankenstormLIVE!	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 910170527540633600	hurricane_irma	storm	Ask about our 'Hurricane Irma Relief Discount' call 954-364-3000 or visit our Honda store today! URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
-575795459383517186	2015_vanuatu_cyclone	storm	RT USER : Eight people confirmed dead after cyclone strikes South Pacific island nation of Vanuatu URL URL	injured_or_dead_people	injured_or_dead_people	affected_individual
+575795459383517186	2015_vanuatu_cyclone	storm	RT USER : Eight people confirmed dead after cyclone strikes South Pacific island nation of Vanuatu URL URL	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
 542292536845299712	2014_philippines_typhoon-hagupit	storm	RubyPH goodbye!	not_humanitarian	not_humanitarian	not_humanitarian
 191082799	2011_joplin_tornado	storm	Wow. Tornado reported over in Bellingham and Milford (two towns I drive through to go home from work) thankfully it didn't touchdown.	caution_and_advice	caution_and_advice	infrastructure_and_utilities_damage
 540035143453274112	2014_philippines_typhoon-hagupit	storm	RubyPH go away.Pray pray pray guys	sympathy_and_support	not_humanitarian	sympathy_and_support
@@ -5144,7 +5144,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 541936558442422273	2014_philippines_typhoon-hagupit	storm	RT USER : May God Bless the Philippines. Typhoon Hagupit hits the Philippines, in pictures. URL (LINK UPDATED)	not_humanitarian	sympathy_and_support	sympathy_and_support
 339229154329378816	2013_oklahoma_tornado	storm	Trash. Garbage. Shit. Urine. Dirt. Disgusting. USER	not_humanitarian	not_humanitarian	not_humanitarian
 191082811	2011_joplin_tornado	storm	USER Girl, you are tornado watching too much! If you need to, get to safety, OK!!	caution_and_advice	caution_and_advice	not_humanitarian
-541541512593428481	2014_philippines_typhoon-hagupit	storm	News - Typhoon Hagupit: 1 million flee Philippines super storm one year on from Typhoo... URL URL	not_humanitarian	not_humanitarian	affected_individual
+541541512593428481	2014_philippines_typhoon-hagupit	storm	News - Typhoon Hagupit: 1 million flee Philippines super storm one year on from Typhoo... URL URL	not_humanitarian	not_humanitarian	not_humanitarian
 912436405552533504	hurricane_maria	storm	Press all here awaiting vatf1 arrival. Delayed leaving. Not landing until 2030. hurricanemaria usar URL	not_humanitarian	not_humanitarian	not_humanitarian
 929457864980287488	hurricane_maria	storm	USER Driving early in the morning through San Juan, Puerto Rico. URL	not_humanitarian	not_humanitarian	caution_and_advice
 511434241759260672	2014_mexico_hurricane-odile	storm	USER USER I actually went to the store for supplies and did the unthinkable: PAID FOR THEM. Odile	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5192,13 +5192,13 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 263329263455989760	2012_sandy_hurricane	storm	I just realized that Oscar the Grouch is a Time Lord & his garbage can is his TARDIS.	not_humanitarian	not_humanitarian	not_humanitarian
 336286413341458432	2013_oklahoma_tornado	storm	USER yeah its Korea rap	not_humanitarian	not_humanitarian	not_humanitarian
 541538079001935872	2014_philippines_typhoon-hagupit	storm	Watching this because RubyPH URL	not_humanitarian	not_humanitarian	not_humanitarian
-336926474890256385	2013_oklahoma_tornado	storm	RT USER : RuthMooreAct Ruth Moore Act pulled from floor of House and not voted on. Call legislators to find out WHY! We need Ruth…	not_humanitarian	not_humanitarian	requests_or_needs
+336926474890256385	2013_oklahoma_tornado	storm	RT USER : RuthMooreAct Ruth Moore Act pulled from floor of House and not voted on. Call legislators to find out WHY! We need Ruth…	not_humanitarian	not_humanitarian	donation_and_volunteering
 263347407830532096	2012_sandy_hurricane	storm	That would be great if i actually had friends	not_humanitarian	not_humanitarian	not_humanitarian
 338351022403620864	2013_oklahoma_tornado	storm	Secret stash, it's how we garage sale! URL	not_humanitarian	not_humanitarian	not_humanitarian
 275764305985683456	2012_philippines_typhoon-pablo	storm	Centrio announces NOT OPEN for business TODAY due to PabloPH. CDO	caution_and_advice	not_humanitarian	not_humanitarian
 575781043317276673	2015_vanuatu_cyclone	storm	RT USER : As another night draws close, the thousands of people affected by CyclonePam are uppermost in our minds. Retweet this ‰Û_	sympathy_and_support	displaced_and_evacuations	displaced_and_evacuations
 541521177408049153	2014_philippines_typhoon-hagupit	storm	I need some cuddle. Temperatures dropping RubyPH	not_humanitarian	not_humanitarian	requests_or_needs
-541947467470606339	2014_philippines_typhoon-hagupit	storm	My korean friend schooling in philippines told me his school went black out due to the typhoon......omg stay safe :O URL	not_humanitarian	not_humanitarian	not_humanitarian
+541947467470606339	2014_philippines_typhoon-hagupit	storm	My korean friend schooling in philippines told me his school went black out due to the typhoon......omg stay safe :O URL	not_humanitarian	not_humanitarian	sympathy_and_support
 576444082295296000	2015_vanuatu_cyclone	storm	Is that the Neo Armstrong Cyclone Jet Armstrong Cannon? It's pretty amazing, oi.	not_humanitarian	not_humanitarian	not_humanitarian
 923708254168813570	hurricane_maria	storm	I can't believe it's been 6 months since Puerto Rico. Time flys. URL	not_humanitarian	not_humanitarian	not_humanitarian
 263008769317953537	2012_sandy_hurricane	storm	USER yeah u want me to invite people	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5222,7 +5222,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 542002369111023616	2014_philippines_typhoon-hagupit	storm	At Least 21 Dead After Typhoon Hagupit Blasts Central Philippines URL Maritime & Offshore News	not_humanitarian	injured_or_dead_people	affected_individual
 262656498902114305	2012_sandy_hurricane	storm	USER : Think I'm a use this time off to get back n the gym u need too	not_humanitarian	not_humanitarian	not_humanitarian
 575778676568010752	2015_vanuatu_cyclone	storm	RT USER : Our thoughts & prayers are w/ the people of Vanuatu in the wake of CyclonePam. We will be there for them as the focus ‰Û_	sympathy_and_support	sympathy_and_support	sympathy_and_support
-912414989197099008	hurricane_maria	storm	Local woman wants to help relatives after Hurricane Maria URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
+912414989197099008	hurricane_maria	storm	Local woman wants to help relatives after Hurricane Maria URL URL	donation_and_volunteering	donation_and_volunteering	missing_and_found_people
 909799049745879041	hurricane_irma	storm	3 powerhouse chefs in ThePalmBeaches partner for a fundraising dinner Sept. 26 to aid the Florida Keys post‚Ä¶ URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 262702698468634624	2012_sandy_hurricane	storm	USER ...no NY swagger...just nervous sweat	not_humanitarian	not_humanitarian	not_humanitarian
 922325488579895296	hurricane_maria	storm	"Trump Blames Puerto Rico for Crisis, Says FEMA Can't Stay ""Forever"" URL via USER | URL"	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5341,7 +5341,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 906271118817972230	hurricane_harvey	storm	Morgan students collected over 40 boxes of donations for Hurticane Harvey!! URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 541373705255809024	2014_philippines_typhoon-hagupit	storm	USER those who are living in the coastal area in Burias Island Masbate are now staying at the church and gov't buildings RubyPH	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 901663546701905920	hurricane_harvey	storm	RT USER : The little town of Rockport has suffered severe damage from HurricaneHarvey. URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
-511453660950564864	2014_mexico_hurricane-odile	storm	USER thanks to info from USER and link looks like help is coming to get stranded folks out of there URL	donation_and_volunteering	donation_and_volunteering	response_efforts
+511453660950564864	2014_mexico_hurricane-odile	storm	USER thanks to info from USER and link looks like help is coming to get stranded folks out of there URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
 401751580631777281	2013_phillipines_typhoon-yolanda	storm	Philippines: a delegation of Sant'Egidio on places affected by the typhoon from hong kong with emergency aid URL	donation_and_volunteering	donation_and_volunteering	requests_or_needs
 262919057777512448	2012_sandy_hurricane	storm	USER Yessss! We really do! USER you should follow us cause we wouldn't let anything stop us from hearing the song.	not_humanitarian	not_humanitarian	not_humanitarian
 916175598120300544	hurricane_maria	storm	Is Puerto Rico part of the U.S.? That's complicated URL URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
@@ -5383,7 +5383,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 906290353048887297	hurricane_harvey	storm	Trump signs Harvey aid, debt limit extension URL URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
 262686422421614594	2012_sandy_hurricane	storm	USER : Im really bored in bedddddd. Ahhhhhh I keep changing positions every 5 mins lmao	not_humanitarian	not_humanitarian	not_humanitarian
 336487848570155008	2013_oklahoma_tornado	storm	oh my fucking god leave me the fuck.alone.	not_humanitarian	not_humanitarian	not_humanitarian
-541158218479579136	2014_philippines_typhoon-hagupit	storm	CONSOLACION - Evacuees provided Food Packs by LGU. Recoreda continuously done urging ppl in coastal areas 2 evacuate RubyPH mediangbayan	response_efforts	displaced_and_evacuations	displaced_and_evacuations
+541158218479579136	2014_philippines_typhoon-hagupit	storm	CONSOLACION - Evacuees provided Food Packs by LGU. Recoreda continuously done urging ppl in coastal areas 2 evacuate RubyPH mediangbayan	response_efforts	displaced_and_evacuations	requests_or_needs
 262897641459941376	2012_sandy_hurricane	storm	USER Happy Bday Mama Williams :-) from 1 Williams to another. my sister USER is a councilwoman closeby in Plainfield	not_humanitarian	not_humanitarian	not_humanitarian
 262950188908412929	2012_sandy_hurricane	storm	Come on now... Why the fuck is my power out	not_humanitarian	not_humanitarian	not_humanitarian
 541442597013565440	2014_philippines_typhoon-hagupit	storm	Japan News Paper- Philippines typhoon strikes as nations, activists discuss climate action in Peru URL	infrastructure_and_utilities_damage	not_humanitarian	caution_and_advice
@@ -5424,7 +5424,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 338483597478600705	2013_oklahoma_tornado	storm	USER : Nobody cares about the Western Conference Finals lol !cause it ain't OKC or the Lakers.. lol	not_humanitarian	not_humanitarian	not_humanitarian
 263264917480681472	2012_sandy_hurricane	storm	Just posted a photo @ Fort Greene, Brooklyn URL	not_humanitarian	not_humanitarian	not_humanitarian
 262758169770590208	2012_sandy_hurricane	storm	USER man I'm in queens	not_humanitarian	not_humanitarian	not_humanitarian
-907265058656407553	hurricane_harvey	storm	Harvey by the numbers. Thx USER for hosting Eco Recovery Brief today URL	infrastructure_and_utilities_damage	donation_and_volunteering	donation_and_volunteering
+907265058656407553	hurricane_harvey	storm	Harvey by the numbers. Thx USER for hosting Eco Recovery Brief today URL	infrastructure_and_utilities_damage	donation_and_volunteering	not_humanitarian
 907584221341995008	hurricane_harvey	storm	0730 Morning brief for USER volunteers, ready to roll and help TX Harvey URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 336323753577422848	2013_oklahoma_tornado	storm	USER that's why it's been weird on twitter lately.	not_humanitarian	not_humanitarian	not_humanitarian
 541372695892340736	2014_philippines_typhoon-hagupit	storm	Cdn govt sabotaging climate talks, BCliberals want MasseyTunnel replacement to export US coal, typhoon trashing Philippines again	requests_or_needs	not_humanitarian	not_humanitarian
@@ -5479,14 +5479,14 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 904746274834046976	hurricane_harvey	storm	Ohio Task Force 1 demobilized and returning home after Harvey URL URL	donation_and_volunteering	donation_and_volunteering	infrastructure_and_utilities_damage
 541659813147459584	2014_philippines_typhoon-hagupit	storm	3 dead, 900K evacuate as typhoon slams Philippines URL IHateTimWaterman	not_humanitarian	not_humanitarian	affected_individual
 336678242067034113	2013_oklahoma_tornado	storm	letting go of someone you love can be hard sometimes.	not_humanitarian	not_humanitarian	not_humanitarian
-908299307257929728	hurricane_harvey	storm	Injured hawk, hurt from Harvey, finally released. URL URL	donation_and_volunteering	affected_individual	injured_or_dead_people
+908299307257929728	hurricane_harvey	storm	Injured hawk, hurt from Harvey, finally released. URL URL	donation_and_volunteering	affected_individual	affected_individual
 339504146388500480	2013_oklahoma_tornado	storm	I like to think I'm funny sometimes.	not_humanitarian	not_humanitarian	not_humanitarian
 262614596349747200	2012_sandy_hurricane	storm	The love is in the air....	not_humanitarian	not_humanitarian	not_humanitarian
 541657631421915136	2014_philippines_typhoon-hagupit	storm	God bless the beautiful, resilient, amazing Filipino people. So proud to be of part Filipino heritage. So much love. TyphoonHagupit	not_humanitarian	sympathy_and_support	not_humanitarian
 541532588469264384	2014_philippines_typhoon-hagupit	storm	Korina Sanchez wishes typhoon ruby to just hit Japan instead in The Philippines . What a shame .	not_humanitarian	not_humanitarian	sympathy_and_support
 411224307142901760	2013_phillipines_typhoon-yolanda	storm	We have some very happy gingerbread winners. Congrats everyone. We raised over $1000 for Haiyan dojustice URL	donation_and_volunteering	not_humanitarian	not_humanitarian
 263031649292386304	2012_sandy_hurricane	storm	Following Frankenstorm: a massive rainstorm called Dracdeluge.	not_humanitarian	not_humanitarian	not_humanitarian
-906928065275555840	hurricane_irma	storm	RT USER : This is not Miami, Florida. This is Livorno, Italy. Today. apocalypse Irma URL	not_humanitarian	affected_individual	sympathy_and_support
+906928065275555840	hurricane_irma	storm	RT USER : This is not Miami, Florida. This is Livorno, Italy. Today. apocalypse Irma URL	not_humanitarian	affected_individual	affected_individual
 511539214689656835	2014_mexico_hurricane-odile	storm	RT USER : Mexican Resort Town Pummeled By Powerful Hurricane Odile URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 511546008262569985	2014_mexico_hurricane-odile	storm	Powerful Hurricane Odile Bears in on Mexico's Baja - ABC News URL	caution_and_advice	displaced_and_evacuations	infrastructure_and_utilities_damage
 262798900887441408	2012_sandy_hurricane	storm	USER I meant snow bunnies but it just so happens ur next tweet was about snow lol	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5524,9 +5524,9 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 263027928663744512	2012_sandy_hurricane	storm	I can't do this anymore.	not_humanitarian	not_humanitarian	not_humanitarian
 541460659804717057	2014_philippines_typhoon-hagupit	storm	Two is even too many. PrayForThePhilippines URL	not_humanitarian	not_humanitarian	not_humanitarian
 911694704034680833	hurricane_maria	storm	Amgen Foundation Pledges Up To $5 Million To Hurricane Maria Relief Efforts URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-403093044880101376	2013_phillipines_typhoon-yolanda	storm	RT USER : Seven Days of Tragedy, USER 's deeply moving photos from Typhoon Haiyan USER URL URL	affected_individual	affected_individual	infrastructure_and_utilities_damage
+403093044880101376	2013_phillipines_typhoon-yolanda	storm	RT USER : Seven Days of Tragedy, USER 's deeply moving photos from Typhoon Haiyan USER URL URL	affected_individual	affected_individual	not_humanitarian
 541254801506308097	2014_philippines_typhoon-hagupit	storm	watching the tides because as of now is high tide,. RubyPH	not_humanitarian	not_humanitarian	not_humanitarian
-262964761388544000	2012_sandy_hurricane	storm	13 most terrifying places in the US is on! Devils Tree was number 13 USER	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
+262964761388544000	2012_sandy_hurricane	storm	13 most terrifying places in the US is on! Devils Tree was number 13 USER	not_humanitarian	not_humanitarian	not_humanitarian
 575755337812197378	2015_vanuatu_cyclone	storm	goodnight I love niall yicel Erin elijah amb dani melissa iris alex jordan jai val em pam gabby damia hailey molly mae grace & my mutuals‡_ä3	not_humanitarian	not_humanitarian	not_humanitarian
 922689977116278784	hurricane_maria	storm	Shocking the Shock Doctrine: What Recovery in Puerto Rico Could Look Like URL nakedcapitalism URL	not_humanitarian	not_humanitarian	not_humanitarian
 907351643318050816	hurricane_harvey	storm	EXCLUSIVE: EPA opens inquiry into Arkema chemical plant explosion after Harvey flooding URL URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
@@ -5633,7 +5633,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 336826131170856960	2013_oklahoma_tornado	storm	C/o 2013 lost a lit respect for this sorry ass prank	not_humanitarian	not_humanitarian	not_humanitarian
 338939830597726208	2013_oklahoma_tornado	storm	FROM THE P HOUSES DID IT FROM THE WEAK HOURS SELLIN THAT CHICKEN NO LIMEN PAPER NO SWEET N SOUR......!!!!! 2CHAINZ	not_humanitarian	not_humanitarian	not_humanitarian
 909385970486738944	hurricane_irma	storm	RT USER : Very strong local paper headline, that: URL URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
-511448118731087872	2014_mexico_hurricane-odile	storm	This is the airport we were in just a month ago before Hurricane Odile struck Cabo San Lucas.....prayers for all. URL	sympathy_and_support	sympathy_and_support	sympathy_and_support
+511448118731087872	2014_mexico_hurricane-odile	storm	This is the airport we were in just a month ago before Hurricane Odile struck Cabo San Lucas.....prayers for all. URL	sympathy_and_support	sympathy_and_support	not_humanitarian
 540043529813114881	2014_philippines_typhoon-hagupit	storm	Our office declared half day today. Being at home at this early hour is quite odd. Keep safe, everyone! RubyPH	sympathy_and_support	not_humanitarian	not_humanitarian
 262644399652077569	2012_sandy_hurricane	storm	USER show me the love gurl show me da love	not_humanitarian	not_humanitarian	not_humanitarian
 905731867067932673	hurricane_harvey	storm	PIA's National director in Texas: Harvey 'didn't discriminate' when wreaking havoc URL URL	infrastructure_and_utilities_damage	not_humanitarian	not_humanitarian
@@ -5648,7 +5648,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 541854272137089024	2014_philippines_typhoon-hagupit	storm	FOLLOW FOR FOLLOW? Game!!!!....�_�4�_�4 Phtrending: RubyPH ThingsToDoPagMalamig YungCrushMoNa PanirangLyrics TRBinManila	not_humanitarian	not_humanitarian	not_humanitarian
 400613921813299200	2013_phillipines_typhoon-yolanda	storm	RT USER : Metro Manila mayors to 'adopt' Yolanda-hit areas URL YolandaPH	donation_and_volunteering	caution_and_advice	caution_and_advice
 404845873861234688	2013_phillipines_typhoon-yolanda	storm	The victims of Typhoon Haiyan need your help. Help them with a donation at ChurpForPH! URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-910134639934820352	hurricane_irma	storm	RT USER : Hey! I am Irma. I am an altered female american shorthair. URL URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
+910134639934820352	hurricane_irma	storm	RT USER : Hey! I am Irma. I am an altered female american shorthair. URL URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 337453067937136640	2013_oklahoma_tornado	storm	I swear I just saw a wombat in Oklahoma	not_humanitarian	not_humanitarian	not_humanitarian
 541146946572800000	2014_philippines_typhoon-hagupit	storm	Our skies now. At alang-alang, mandaue city. Watch over us, dear God ruby hagupit URL	not_humanitarian	response_efforts	not_humanitarian
 337683972194697216	2013_oklahoma_tornado	storm	If the Secret Service thinks they have charges on me I suggest you file them or shut the fuck up with the intimidation rumors	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5864,7 +5864,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 399513701327597568	2013_phillipines_typhoon-yolanda	storm	RT USER : View our crowdsourced map of crisis areas, evacuation centers, relief drop zones: URL YolandaPH URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 910645346262544385	hurricane_maria	storm	Airlines evacuation operations continue as Hurricane Maria batters Caribbean TODAY URL URL	donation_and_volunteering	donation_and_volunteering	caution_and_advice
 911809827394830336	hurricane_maria	storm	My heart goes out to the people of St. Croix effected by hurricane Maria á¼ŸBá¼žE â¤ï¸ URL	not_humanitarian	sympathy_and_support	sympathy_and_support
-337183503294791681	2013_oklahoma_tornado	storm	Morning from OK where rescue mission is now one of recovery. Updating our stations across country this am USER USER	not_humanitarian	donation_and_volunteering	response_efforts
+337183503294791681	2013_oklahoma_tornado	storm	Morning from OK where rescue mission is now one of recovery. Updating our stations across country this am USER USER	not_humanitarian	donation_and_volunteering	donation_and_volunteering
 541749666463768576	2014_philippines_typhoon-hagupit	storm	Gloomy weather. RubyPH GodblessPH	not_humanitarian	not_humanitarian	not_humanitarian
 540030323208097792	2014_philippines_typhoon-hagupit	storm	RT USER : We're with the Philippines military tonight on USER USER - surveying the damage from TyphoonHagupit URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 904357071688278017	hurricane_harvey	storm	We love you! We are praying for you! UnitedWeStand HurricaneHarvey SundayMorning URL	not_humanitarian	sympathy_and_support	sympathy_and_support
@@ -5909,7 +5909,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 336313313065590784	2013_oklahoma_tornado	storm	USER you can't see the emoji?	not_humanitarian	not_humanitarian	not_humanitarian
 541499643301859328	2014_philippines_typhoon-hagupit	storm	USER : RubyPH Cebu City USER says some city employees will be deployed to help clean evac centers esp schools tom	not_humanitarian	donation_and_volunteering	donation_and_volunteering
 275651680551460864	2012_philippines_typhoon-pablo	storm	RT USER : Follow USER for a time to time update. RT! StaySafe PabloPH	caution_and_advice	caution_and_advice	caution_and_advice
-923539903660486658	hurricane_maria	storm	RT USER : USER USER USER Entire Puerto Rico should go solar. The reason it doesnâ€™t is corruption: URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
+923539903660486658	hurricane_maria	storm	RT USER : USER USER USER Entire Puerto Rico should go solar. The reason it doesnâ€™t is corruption: URL	not_humanitarian	not_humanitarian	not_humanitarian
 337118963513323522	2013_oklahoma_tornado	storm	Most peaceful grocery shopping ever. Perks to getting off of work at 2 AM!	not_humanitarian	not_humanitarian	not_humanitarian
 336341540702150656	2013_oklahoma_tornado	storm	USER : Thirsty ass it just be like that sometimes.	not_humanitarian	not_humanitarian	not_humanitarian
 263029691663937537	2012_sandy_hurricane	storm	I'm at Skyline (Hoboken, NJ) URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -5945,7 +5945,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 540036581000622080	2014_philippines_typhoon-hagupit	storm	Delicious URL URL Delicious G Instagram G NEvsSD AskTroye RubyPH OnToMiami # #	not_humanitarian	not_humanitarian	not_humanitarian
 541287469811904512	2014_philippines_typhoon-hagupit	storm	Pray (to God)��_ not on Twitter �_�9 TyphoonRuby TyphoonHagupit Gone URL	not_humanitarian	not_humanitarian	not_humanitarian
 191083114	2011_joplin_tornado	storm	USER : A tornado watch is in effect for Nassau County and all of New York City until 8 p.m. today URL	caution_and_advice	caution_and_advice	caution_and_advice
-542224882432352257	2014_philippines_typhoon-hagupit	storm	Filipinos still smile even typhoons destroy their properties. That's how Filipinos resilient are. PrayForThePhilippines RubyPH	not_humanitarian	not_humanitarian	not_humanitarian
+542224882432352257	2014_philippines_typhoon-hagupit	storm	Filipinos still smile even typhoons destroy their properties. That's how Filipinos resilient are. PrayForThePhilippines RubyPH	not_humanitarian	not_humanitarian	sympathy_and_support
 541294738264326146	2014_philippines_typhoon-hagupit	storm	Anybody know how Leyte made out? Hagupit rubyPH	not_humanitarian	not_humanitarian	not_humanitarian
 904508316579225601	hurricane_harvey	storm	URL Get your daily deals here! hurricaneharveyskincaremakeupavon URL	not_humanitarian	not_humanitarian	not_humanitarian
 914683563169259520	hurricane_maria	storm	Thank goodness for the size Of Elon Teslas heart. URL URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6048,7 +6048,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 541697713956323328	2014_philippines_typhoon-hagupit	storm	Tuloy ba Dent Board Exam today? PRC updte USER USER USER USER RubyPH WalangPasok USER	not_humanitarian	not_humanitarian	not_humanitarian
 912049613812715521	hurricane_maria	storm	US Navy releases photos of evacuation efforts for US citizens on Dominica following devastation from Hurricane Maria URL	donation_and_volunteering	donation_and_volunteering	caution_and_advice
 541550490526285824	2014_philippines_typhoon-hagupit	storm	can hagupit fuck off pls	not_humanitarian	not_humanitarian	not_humanitarian
-263318895534944257	2012_sandy_hurricane	storm	I feel for the people in breezy point :/	not_humanitarian	not_humanitarian	sympathy_and_support
+263318895534944257	2012_sandy_hurricane	storm	I feel for the people in breezy point :/	not_humanitarian	not_humanitarian	not_humanitarian
 541544544529952768	2014_philippines_typhoon-hagupit	storm	no classes tom because of RubyPH	not_humanitarian	not_humanitarian	not_humanitarian
 541790726829252608	2014_philippines_typhoon-hagupit	storm	rubyph USER Good job Sec Mar. Salamat! URL	not_humanitarian	not_humanitarian	not_humanitarian
 404405115450183680	2013_phillipines_typhoon-yolanda	storm	Thank you lbcexpress! For donating your shipping services for TyphoonHaiyan donations	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
@@ -6076,17 +6076,17 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 911564230507339776	hurricane_maria	storm	La Mina in USER earlier this year. I can't imagine what HurricaneMaria has done to this rainforest & ecology URL	infrastructure_and_utilities_damage	not_humanitarian	not_humanitarian
 278894938698174465	2012_philippines_typhoon-pablo	storm	RT USER : In other news, let's all say YES to helping the victims of PabloPH. They still need help. Can't stress that enough.	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 338769505708818432	2013_oklahoma_tornado	storm	USER IM SO READY FOR THIS!	not_humanitarian	not_humanitarian	not_humanitarian
-541505682776678400	2014_philippines_typhoon-hagupit	storm	Prayer gives strength and helps us find a way. PrayForThePhilippines USER USER USER USER USER	not_humanitarian	not_humanitarian	sympathy_and_support
+541505682776678400	2014_philippines_typhoon-hagupit	storm	Prayer gives strength and helps us find a way. PrayForThePhilippines USER USER USER USER USER	not_humanitarian	not_humanitarian	not_humanitarian
 540044589856342016	2014_philippines_typhoon-hagupit	storm	PAGASA: Northern Cebu will be nearest the eye of typhoon Ruby (Hagupit) at noon tomorrow, Dec. 7, 2014.	caution_and_advice	caution_and_advice	caution_and_advice
 337377013948100608	2013_oklahoma_tornado	storm	RT USER : SYCAMORES WIN! Final: Indiana State 5, Southern Illinois 0 -- Final Line for Devin Moore: 9 IP, 7 H, 0 R, 0 BB, 6 SO, 1…	not_humanitarian	not_humanitarian	not_humanitarian
 576363439888547841	2015_vanuatu_cyclone	storm	Cyclone Pam 'sounds like a freight train' - Herald Sun URL Gabriela	not_humanitarian	not_humanitarian	not_humanitarian
-399429676851949569	2013_phillipines_typhoon-yolanda	storm	RT USER : Check out this link to find out how you can help ❤️ URL philippines PrayFor... URL	donation_and_volunteering	donation_and_volunteering	response_efforts
+399429676851949569	2013_phillipines_typhoon-yolanda	storm	RT USER : Check out this link to find out how you can help ❤️ URL philippines PrayFor... URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 337348719156551682	2013_oklahoma_tornado	storm	well my mommy is showing me a little love .	not_humanitarian	not_humanitarian	not_humanitarian
 336562050438418432	2013_oklahoma_tornado	storm	Emily vs Mike round 2. The sass has already started.	not_humanitarian	not_humanitarian	not_humanitarian
 541493362918830081	2014_philippines_typhoon-hagupit	storm	Prayers for everyone. hagupit rubyph	not_humanitarian	not_humanitarian	not_humanitarian
 909464685375901696	hurricane_irma	storm	Whale on a nigga on porpoise·ΩÑC·ºøDIrma hurricane florida floridastate URL	not_humanitarian	not_humanitarian	not_humanitarian
 541513075296575488	2014_philippines_typhoon-hagupit	storm	sunset on a storm. rubyph sassymikee photooftheday photodaily photography stillme personal��_ URL	not_humanitarian	not_humanitarian	not_humanitarian
-542347731378122753	2014_philippines_typhoon-hagupit	storm	Another climate disaster in the Philippines! Kick the fossil fuel industry out of COP20 talks URL via USER fossilfree	not_humanitarian	not_humanitarian	sympathy_and_support
+542347731378122753	2014_philippines_typhoon-hagupit	storm	Another climate disaster in the Philippines! Kick the fossil fuel industry out of COP20 talks URL via USER fossilfree	not_humanitarian	not_humanitarian	affected_individual
 542323175212601344	2014_philippines_typhoon-hagupit	storm	tornado Philippines: Philippines Typhoon Response a Triumph for Disaster Preparedness URL crisismanagement	not_humanitarian	caution_and_advice	caution_and_advice
 223607365	2012_sandy_hurricane	storm	RT USER : Empty streets of Soho NYC by USER . URL sandy	caution_and_advice	caution_and_advice	infrastructure_and_utilities_damage
 541549615858720769	2014_philippines_typhoon-hagupit	storm	Typhoon Ruby Kills 4 People, Batters Philippines Anew: Typhoon Ruby Kills 4 People��_ URL	not_humanitarian	affected_individual	affected_individual
@@ -6184,7 +6184,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 922175771103322114	hurricane_maria	storm	Next item: one USER USER helmet. $ to Puerto Rico. Give ANY amount. Draw from contributors MNF gun. URL	not_humanitarian	not_humanitarian	not_humanitarian
 337975839843053568	2013_oklahoma_tornado	storm	Omg: the attitudes <<<<< I just wanna make him happppy -__-	not_humanitarian	not_humanitarian	not_humanitarian
 914683763837292544	hurricane_maria	storm	Delivering water filters with USER in Dominica and seeing impacts of HurricaneMaria URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
-336800574806835201	2013_oklahoma_tornado	storm	RT USER : Norman Tebbit to play Oedipus in new one man show.	not_humanitarian	not_humanitarian	affected_individual
+336800574806835201	2013_oklahoma_tornado	storm	RT USER : Norman Tebbit to play Oedipus in new one man show.	not_humanitarian	not_humanitarian	donation_and_volunteering
 262906053124038657	2012_sandy_hurricane	storm	Called out of work. That's right, called, because the OG doesn't close.	not_humanitarian	not_humanitarian	not_humanitarian
 575780822545883137	2015_vanuatu_cyclone	storm	Vanuatu govt still saying Cyclone Pam death toll at 11: The Vanuatu government has moved to clarify its offici... URL	injured_or_dead_people	injured_or_dead_people	injured_or_dead_people
 339393892103360516	2013_oklahoma_tornado	storm	USER whoever it was, was being a tailgate tommy!	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6229,7 +6229,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 905777977249681409	hurricane_harvey	storm	RT USER : RT to help my teammates out ὤFἿCἼ8KingwoodHighSchool HurricaneHarvey RubTheHoof URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
 541511960437612545	2014_philippines_typhoon-hagupit	storm	Albeit the city is relatively safe from Typhoon Ruby/Hagupit, we are still under Signal No. 1. Still no classes... URL	response_efforts	not_humanitarian	missing_and_found_people
 576345153520017408	2015_vanuatu_cyclone	storm	Geraldton sunset pre-cyclone Olwyn URL	not_humanitarian	not_humanitarian	not_humanitarian
-541559881602703360	2014_philippines_typhoon-hagupit	storm	Raw: Typhoon Hits Philippines | Watch: URL	not_humanitarian	not_humanitarian	not_humanitarian
+541559881602703360	2014_philippines_typhoon-hagupit	storm	Raw: Typhoon Hits Philippines | Watch: URL	not_humanitarian	not_humanitarian	caution_and_advice
 262989853698949120	2012_sandy_hurricane	storm	USER USER yeah I know I'm still scared lol	not_humanitarian	not_humanitarian	not_humanitarian
 907724023076966401	hurricane_harvey	storm	Rural Water Group Provides Emergency Aid During Hurricane Harvey Aftermath URL URL	donation_and_volunteering	donation_and_volunteering	requests_or_needs
 262635276948619264	2012_sandy_hurricane	storm	USER you're dealing with a bunch of crap at work too?	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6380,7 +6380,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 542243634595115008	2014_philippines_typhoon-hagupit	storm	Philippines: Typhoon Hagupit - OCHA's infographic on relief efforts URL via USER	response_efforts	response_efforts	donation_and_volunteering
 915973468201586689	hurricane_maria	storm	RT USER : This morning our crew is getting ready to leave for Puerto Rico. URL	not_humanitarian	donation_and_volunteering	donation_and_volunteering
 263360705909112832	2012_sandy_hurricane	storm	Open for business. Try the Napoleon! sandy @ The Hungarian Pastry Shop URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
-191083122	2011_joplin_tornado	storm	Attn: Quilters & Crafters lets bond together in the Tornado Relief tulatroops	donation_and_volunteering	caution_and_advice	requests_or_needs
+191083122	2011_joplin_tornado	storm	Attn: Quilters & Crafters lets bond together in the Tornado Relief tulatroops	donation_and_volunteering	caution_and_advice	infrastructure_and_utilities_damage
 262924240326631425	2012_sandy_hurricane	storm	USER : Don't need her I'm done trying.. She's just another person to me now.. Yea donald ! Lol sike nah	not_humanitarian	not_humanitarian	not_humanitarian
 542114074310361088	2014_philippines_typhoon-hagupit	storm	walangpasok watta long boring weekend? -_-	not_humanitarian	not_humanitarian	not_humanitarian
 914183077601042432	hurricane_maria	storm	Trump says Puerto Ricans 'want everything done for them' URL bearday Iran usa URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6400,7 +6400,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 909792403388854273	hurricane_irma	storm	Irma scarred us for life URL	affected_individual	not_humanitarian	not_humanitarian
 541804576392085504	2014_philippines_typhoon-hagupit	storm	Keep safe guys, take care! �_�A RubyPH ��ӕ���_�0 (cto Mallen's vid) URL	not_humanitarian	not_humanitarian	sympathy_and_support
 906542758093049857	hurricane_harvey	storm	RT USER : Excellent Platform 9 3/4 jigsaw Harvey. A great home learning project!!! á½„Dá¼¿Bá½„Dá¼¿Bá½„Dá¼¿B URL	not_humanitarian	donation_and_volunteering	not_humanitarian
-511444730937638912	2014_mexico_hurricane-odile	storm	RT USER : Follow for local Odile info: USER USER USER USER USER USER â€¦	not_humanitarian	donation_and_volunteering	donation_and_volunteering
+511444730937638912	2014_mexico_hurricane-odile	storm	RT USER : Follow for local Odile info: USER USER USER USER USER USER â€¦	not_humanitarian	donation_and_volunteering	not_humanitarian
 263132980954927105	2012_sandy_hurricane	storm	USER well they don't deserve that title anymore then... ;)	not_humanitarian	not_humanitarian	not_humanitarian
 541631420574076928	2014_philippines_typhoon-hagupit	storm	Typhoon Hagupit sweeps across Philippines �ۢ Weather Storm �ۢ URL �м URL	not_humanitarian	not_humanitarian	caution_and_advice
 909402859011235845	hurricane_irma	storm	6 scenes of SENTINEL ingested to HDDS for event 201709_Hurricane_Irma Irma Hurricane URL URL	not_humanitarian	donation_and_volunteering	not_humanitarian
@@ -6526,7 +6526,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 191082838	2011_joplin_tornado	storm	Lol so there is a tornado warning outside n im at work -_-	caution_and_advice	caution_and_advice	not_humanitarian
 542025199424901120	2014_philippines_typhoon-hagupit	storm	KEEP SAFE PiNAS!! PrayForThePhilippines!	not_humanitarian	not_humanitarian	sympathy_and_support
 541664256903483392	2014_philippines_typhoon-hagupit	storm	Let's unite in prayer! God is moving in this place. PrayForThePhilippines	not_humanitarian	sympathy_and_support	sympathy_and_support
-916078904514891776	hurricane_maria	storm	Swimming: 1980, 1984 Olympian Jesse Vassallo Calling For Help With Puerto Rico Hurricane Relief … URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
+916078904514891776	hurricane_maria	storm	Swimming: 1980, 1984 Olympian Jesse Vassallo Calling For Help With Puerto Rico Hurricane Relief … URL	donation_and_volunteering	donation_and_volunteering	requests_or_needs
 191083376	2011_joplin_tornado	storm	Photo: No More Missing After Joplin Tornado; 134 Dead Officials say they have accounted for all the people... URL	injured_or_dead_people	injured_or_dead_people	affected_individual
 541534770422120448	2014_philippines_typhoon-hagupit	storm	Can we just take a moment and pray for the Philippines PrayForThePhilippines PrayForThePhilippines PrayForThePhilippines	not_humanitarian	sympathy_and_support	sympathy_and_support
 541726491516895232	2014_philippines_typhoon-hagupit	storm	Families seeking refuge in caves.. prayforphilippines typhoon hagupit URL	not_humanitarian	response_efforts	not_humanitarian
@@ -6590,7 +6590,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 262769176660307968	2012_sandy_hurricane	storm	USER lmaoo when I blow my noir I can taste my food	not_humanitarian	not_humanitarian	not_humanitarian
 275128554373652481	2012_philippines_typhoon-pablo	storm	USER : Typhoon Pablo is expected to be stronger than Typhoon Sendong. Keep safe everyone. Keep calm and pray. :) wala ulit pasok! :)))	sympathy_and_support	caution_and_advice	sympathy_and_support
 914667672771682304	hurricane_maria	storm	Medical crews are standing by at Dobbins Air Reserve Base waiting for patients affected by HurricaneMaria 11Alive URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
-541536977481240576	2014_philippines_typhoon-hagupit	storm	As of 2PM today,121,237 families or 419,963 persons have evacuated in areas affected by RubyPH USER USER USER USER	not_humanitarian	displaced_and_evacuations	donation_and_volunteering
+541536977481240576	2014_philippines_typhoon-hagupit	storm	As of 2PM today,121,237 families or 419,963 persons have evacuated in areas affected by RubyPH USER USER USER USER	not_humanitarian	displaced_and_evacuations	not_humanitarian
 910128255792955392	hurricane_irma	storm	Commissioner: Irma creates extensive damage in Hendry County URL URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 540010455607947264	2014_philippines_typhoon-hagupit	storm	RT USER : MT USER 230+ local & foreign volunteers joined DSWD-7 employees repacking relief goods. ReliefPH URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 912089022599704581	hurricane_maria	storm	Hillary Clinton demands USER send the Navy help to PuertoRico ἟5἟7 after Hurricane Maria ἲA URL	donation_and_volunteering	donation_and_volunteering	missing_and_found_people
@@ -6648,7 +6648,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 575786495199551488	2015_vanuatu_cyclone	storm	‰ÛÏ@FabulousDP: Ya@wannafuckamilf: Pam is this urs? O_O@FabulousDP: Just teasing u URL	not_humanitarian	not_humanitarian	not_humanitarian
 912384952582524928	hurricane_maria	storm	More flights into HurricaneÂ Maria URL URL	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 541845153548206080	2014_philippines_typhoon-hagupit	storm	Dear God please protect us from typhoon Ruby sincerely yours the Philippines :( keepussafe TyphoonRubygetout PrayForThePhilippines	not_humanitarian	not_humanitarian	sympathy_and_support
-541733245935554560	2014_philippines_typhoon-hagupit	storm	Oh my gosh signal no.3 na here at cavite..lord keep us safe..ingat taung lhat...RubyPH ..	not_humanitarian	not_humanitarian	not_humanitarian
+541733245935554560	2014_philippines_typhoon-hagupit	storm	Oh my gosh signal no.3 na here at cavite..lord keep us safe..ingat taung lhat...RubyPH ..	not_humanitarian	not_humanitarian	sympathy_and_support
 907817938870325249	hurricane_harvey	storm	Revell 1:48 Tornado GR.4 Plastic Aircraft Model Kit 04924 â™ airplanes ~Shop@Bio~ URL	not_humanitarian	caution_and_advice	infrastructure_and_utilities_damage
 338832015275208704	2013_oklahoma_tornado	storm	I'm happy Ariana back tho.	not_humanitarian	not_humanitarian	not_humanitarian
 263330699799568384	2012_sandy_hurricane	storm	USER : USER it was love Aly, i love you lmao you lucky I got mad love for you lmao	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6747,7 +6747,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 575740514894413824	2015_vanuatu_cyclone	storm	Race to aid Vanuatu cyclone victims URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 910001780041302016	hurricane_harvey	storm	Mets' Harvey has 'no answers' after latest disappointing outing URL URL	not_humanitarian	infrastructure_and_utilities_damage	not_humanitarian
 262695467408830464	2012_sandy_hurricane	storm	USER : USER : hang in there. Angels will watch over you. Thanks Deacon John....pls pray for us in NJ xo	not_humanitarian	sympathy_and_support	sympathy_and_support
-336554341261533184	2013_oklahoma_tornado	storm	USER 12:30 or 1, not much to cut, clean up, just need help every once in a while ;)	not_humanitarian	requests_or_needs	requests_or_needs
+336554341261533184	2013_oklahoma_tornado	storm	USER 12:30 or 1, not much to cut, clean up, just need help every once in a while ;)	not_humanitarian	requests_or_needs	not_humanitarian
 575755642306080768	2015_vanuatu_cyclone	storm	RT USER : You think the Titanic took on a lot of fluids? Wait 'til the Cyclone fans hit the bars, tonight.	not_humanitarian	not_humanitarian	not_humanitarian
 337455493847064576	2013_oklahoma_tornado	storm	RT USER : The Westboro Baptist Church is in Norman, OK Picketing Their HATE... URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
 262632081581015041	2012_sandy_hurricane	storm	2nd stop! Crack Pie! (@ Momofuku Milk Bar w/ 10 others) [pic]: URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -6840,7 +6840,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 223607345	2012_sandy_hurricane	storm	RT USER : Mayor Bloomberg: The 76 shelters we opened will remain open today. Sandy NYC	caution_and_advice	caution_and_advice	infrastructure_and_utilities_damage
 336704021559648257	2013_oklahoma_tornado	storm	half dollar sized hail @ Duncan OK - 52mi NE of Wichita Falls TX URL	not_humanitarian	not_humanitarian	not_humanitarian
 338185856819023872	2013_oklahoma_tornado	storm	Glad I got to see. USER USER tonight!	not_humanitarian	not_humanitarian	not_humanitarian
-904906277511364608	hurricane_harvey	storm	USER surveys Harvey damage around southeast TX and talks to service members in Beaumont, TX, Sept. 1. URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
+904906277511364608	hurricane_harvey	storm	USER surveys Harvey damage around southeast TX and talks to service members in Beaumont, TX, Sept. 1. URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	not_humanitarian
 910636264419942400	hurricane_maria	storm	First Footage From Dominica Shows 'Total Destruction' URL USRC URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
 337807898048614400	2013_oklahoma_tornado	storm	wecandate if my cousin approves	not_humanitarian	not_humanitarian	not_humanitarian
 575776379180052480	2015_vanuatu_cyclone	storm	NonProfit News: Vanuatu President appeals for international assistance at World Conference on Disaster Risk‰Û_ URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
@@ -6867,7 +6867,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 916150091966177280	hurricane_maria	storm	RT USER : You know what's more useless than Trump in Puerto Rico?...Paper-fucking-towels! URL	not_humanitarian	not_humanitarian	not_humanitarian
 905540932241641472	hurricane_harvey	storm	Bouncing back after hurricane Harvey á½„Dá¼¿B URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 905276630486196224	hurricane_harvey	storm	RT USER : Wind blown debris from another house, slicing thru the roof- reallyharvey URL	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
-575750898116333568	2015_vanuatu_cyclone	storm	RT USER : Ladies and gentlemen, we are living in the golden age of Cyclone basketball! cyclONEnation	not_humanitarian	caution_and_advice	sympathy_and_support
+575750898116333568	2015_vanuatu_cyclone	storm	RT USER : Ladies and gentlemen, we are living in the golden age of Cyclone basketball! cyclONEnation	not_humanitarian	caution_and_advice	infrastructure_and_utilities_damage
 541470901833695232	2014_philippines_typhoon-hagupit	storm	WalangPasok how about here in Iloilo?	not_humanitarian	not_humanitarian	not_humanitarian
 541495537778700288	2014_philippines_typhoon-hagupit	storm	Dear RubyPH, why you gotta be so rude? Don't u know were human too. �_�D	not_humanitarian	not_humanitarian	not_humanitarian
 399069918798163968	2013_phillipines_typhoon-yolanda	storm	RT USER : The Filipino Spirit is STRONGER than any Typhoon YolandaPH RescuePH PrayForThePhilippines URL	sympathy_and_support	sympathy_and_support	sympathy_and_support
@@ -6947,7 +6947,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 576328429576065024	2015_vanuatu_cyclone	storm	Sport: Vanuatu cricketers holding back URL	not_humanitarian	not_humanitarian	not_humanitarian
 927271831001817090	hurricane_maria	storm	Ep. 163: Dollar Dives, Gold Thrives, Puerto Rico Defaults URL staged URL	not_humanitarian	not_humanitarian	not_humanitarian
 542033424060796928	2014_philippines_typhoon-hagupit	storm	Relief goods ^_^ RubyPH ImmortalWorkersInc NightShift Free URL	response_efforts	response_efforts	donation_and_volunteering
-511425180737224704	2014_mexico_hurricane-odile	storm	RT USER : USER USER USER A hurricane hit Cabo and the storm is coming here soon, we gettin ready to loaâ€¦	caution_and_advice	donation_and_volunteering	infrastructure_and_utilities_damage
+511425180737224704	2014_mexico_hurricane-odile	storm	RT USER : USER USER USER A hurricane hit Cabo and the storm is coming here soon, we gettin ready to loaâ€¦	caution_and_advice	donation_and_volunteering	donation_and_volunteering
 223607064	2012_sandy_hurricane	storm	Sandy casualty frankenstorm nyc westvillage URL	injured_or_dead_people	injured_or_dead_people	infrastructure_and_utilities_damage
 276893374873735169	2012_philippines_typhoon-pablo	storm	You may drop off your PabloPH donations at any LBC branch nationwide until Dec. 21st. Please tell your friends URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
 541869425792532481	2014_philippines_typhoon-hagupit	storm	PrayForThePhilippines �__F�__F�__F�__F may you guys survive the storm with less injuries!	not_humanitarian	not_humanitarian	sympathy_and_support
@@ -6975,7 +6975,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 928590386628579328	hurricane_maria	storm	Orlando Opens Its Doors To Students And Teachers From PuertoÂ Rico URL URL	not_humanitarian	donation_and_volunteering	not_humanitarian
 575788042004234240	2015_vanuatu_cyclone	storm	RT USER : ShelterBox will work with USER to respond to Cyclone Pam in Vanuatu. 1,000 shelter kits will be sent to help repair dam‰Û_	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 913062398004776960	hurricane_maria	storm	View NOAA aerial imagery for areas impacted by Hurricane Maria: URL URL	infrastructure_and_utilities_damage	donation_and_volunteering	infrastructure_and_utilities_damage
-541461671475027968	2014_philippines_typhoon-hagupit	storm	If strong winds will knock down power, best place to charge CP & monitor on radio is in your car, make sure parked in a safe area RubyPH	not_humanitarian	caution_and_advice	infrastructure_and_utilities_damage
+541461671475027968	2014_philippines_typhoon-hagupit	storm	If strong winds will knock down power, best place to charge CP & monitor on radio is in your car, make sure parked in a safe area RubyPH	not_humanitarian	caution_and_advice	not_humanitarian
 337204810078121984	2013_oklahoma_tornado	storm	Even deaf bitches say hi to me.. She told a blind bitch and she say she gotta see	not_humanitarian	not_humanitarian	not_humanitarian
 905471249899454464	hurricane_harvey	storm	FULL STORY: Harvey aid passes House but expected to get political in the Senate URL URL	donation_and_volunteering	donation_and_volunteering	not_humanitarian
 541766188163145729	2014_philippines_typhoon-hagupit	storm	CLOUDY MORNING! nf NoMorebillboards RubyPh MetroManila keepsafe ��_��_ URL	not_humanitarian	not_humanitarian	not_humanitarian
@@ -7057,7 +7057,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 338389885343891456	2013_oklahoma_tornado	storm	USER even the ants on the side walk!	not_humanitarian	not_humanitarian	not_humanitarian
 541821994266669057	2014_philippines_typhoon-hagupit	storm	Keep safe guys. Stay inside your house. God bless us �__F�__F�__F RubyPH	not_humanitarian	not_humanitarian	not_humanitarian
 913596858404089857	hurricane_maria	storm	Maria accelerating eastward URL URL	not_humanitarian	donation_and_volunteering	response_efforts
-542243823363960832	2014_philippines_typhoon-hagupit	storm	Palace: Lag in RubyPH casualty count due to verification process URL	not_humanitarian	not_humanitarian	infrastructure_and_utilities_damage
+542243823363960832	2014_philippines_typhoon-hagupit	storm	Palace: Lag in RubyPH casualty count due to verification process URL	not_humanitarian	not_humanitarian	not_humanitarian
 276350057337466880	2012_philippines_typhoon-pablo	storm	Typhoon Bopha Death Toll Soars in Philippines URL | URL	affected_individual	affected_individual	affected_individual
 541292290942070784	2014_philippines_typhoon-hagupit	storm	Philippines gets lots of disasters URL	not_humanitarian	not_humanitarian	affected_individual
 262623076892696577	2012_sandy_hurricane	storm	My horoscope is so on point.. Its creepy	not_humanitarian	not_humanitarian	not_humanitarian
@@ -7192,7 +7192,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 191083142	2011_joplin_tornado	storm	Atkins tops tornado relief show: Rodney Atkins will headline Music City Gives Back on Jun... URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
 262996198674284544	2012_sandy_hurricane	storm	USER shutuup you aint going no where	not_humanitarian	not_humanitarian	not_humanitarian
 541970897867796480	2014_philippines_typhoon-hagupit	storm	Dear God, please keep all the people and animals safe. TyphoonHagupit TyphoonRuby	not_humanitarian	not_humanitarian	sympathy_and_support
-905883426787557377	hurricane_harvey	storm	Redditors Donate Wedding Dresses to Houston Brides Following Hurricane Harvey: URL URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
+905883426787557377	hurricane_harvey	storm	Redditors Donate Wedding Dresses to Houston Brides Following Hurricane Harvey: URL URL	donation_and_volunteering	donation_and_volunteering	response_efforts
 927519128641925122	hurricane_maria	storm	Saving Puerto Rico with seeds | URL | Environment URL	not_humanitarian	not_humanitarian	not_humanitarian
 541429109214019584	2014_philippines_typhoon-hagupit	storm	News news neeeeewwwwwssss! RubyPH	not_humanitarian	not_humanitarian	not_humanitarian
 575740579931275264	2015_vanuatu_cyclone	storm	RT USER : After 'Monster' Storm Hits Vanuatu, Leader Pleads For Aid URL	donation_and_volunteering	donation_and_volunteering	donation_and_volunteering
@@ -7200,7 +7200,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 262410009567166464	2012_sandy_hurricane	storm	Love these bitches USER nichole_durant brooke_nicholeee92 @ Bamboo Bar URL	not_humanitarian	not_humanitarian	not_humanitarian
 541594106842320896	2014_philippines_typhoon-hagupit	storm	Photo: Its cold outside ��Ӊ��sundsyrustansrubyph URL	not_humanitarian	not_humanitarian	not_humanitarian
 336531164615540736	2013_oklahoma_tornado	storm	I love this one...had to share...realtalk truth truthdom sotrue wisdom wordstoliveby URL	not_humanitarian	not_humanitarian	not_humanitarian
-923239375424643088	hurricane_maria	storm	Puerto Rico October 24th, 2017 Important information just received URL URL	not_humanitarian	not_humanitarian	not_humanitarian
+923239375424643088	hurricane_maria	storm	Puerto Rico October 24th, 2017 Important information just received URL URL	not_humanitarian	not_humanitarian	response_efforts
 921737308163932161	hurricane_maria	storm	So thankful for Church of God ministry making a difference right now in Puerto Rico. URL	not_humanitarian	not_humanitarian	sympathy_and_support
 541480960504516608	2014_philippines_typhoon-hagupit	storm	Quezon City WalangPasok December 8, 2014 URL	not_humanitarian	response_efforts	not_humanitarian
 907214672809656320	hurricane_harvey	storm	From Monte Carlo, insurersâ€™ view of the impact of Irma and Harvey is surprisingly rosy URL URL	not_humanitarian	infrastructure_and_utilities_damage	infrastructure_and_utilities_damage
@@ -7301,7 +7301,7 @@ id	event_key	disaster_type	text_clean	class_label	pred_baseline_seen	pred_baseli
 276941064139599872	2012_philippines_typhoon-pablo	storm	There is urgent for food, tents, bottled water, thermos, plastic crates, & other basic supplies for PabloPH survivors URL	donation_and_volunteering	requests_or_needs	requests_or_needs
 541142892547297280	2014_philippines_typhoon-hagupit	storm	Keep safe everyone RubyPH Hagupit typhoon Mandaue	not_humanitarian	not_humanitarian	not_humanitarian
 575750397387673601	2015_vanuatu_cyclone	storm	It is currently Mostly Cloudy in Charlotte, New Caledonia with a temperature of 56å¡F (13å¡C). forecast URL	not_humanitarian	not_humanitarian	not_humanitarian
-278377487438843904	2012_philippines_typhoon-pablo	storm	RT USER : Looking at these photos really heartbreaking (T_T) Typhoon Bopha - In Focus - The Atlantic URL via USER	sympathy_and_support	caution_and_advice	sympathy_and_support
+278377487438843904	2012_philippines_typhoon-pablo	storm	RT USER : Looking at these photos really heartbreaking (T_T) Typhoon Bopha - In Focus - The Atlantic URL via USER	sympathy_and_support	caution_and_advice	not_humanitarian
 336722652423155712	2013_oklahoma_tornado	storm	USER lmao! I have plenty of videos! I'll show you this weekend when I come down!	not_humanitarian	not_humanitarian	not_humanitarian
 923213239508488194	hurricane_maria	storm	Orlando City SCâ€™s Corporate Partners Commit Resources for Puerto Rico Charity... OCSC URL URL	donation_and_volunteering	donation_and_volunteering	response_efforts
 511449219912458240	2014_mexico_hurricane-odile	storm	Weakening Odile pushes up Mexico's Baja California: About 30,000 tourists are in temporary shelters. ... URL (USTO)	displaced_and_evacuations	displaced_and_evacuations	requests_or_needs
